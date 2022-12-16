@@ -65,7 +65,7 @@ To Run AmigaOS on a Vintage PowerMac G5 2003-2005 with CPUs 970 / 970FX / 970MP 
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 requires emulating PowerPC in PowerPC, to solve OpenFW & CPU differences </br>
 installing OSX for PPC or Linux for PPC, there are different Linux for PPC </br> 
-OSX Leopard 10.5.8 for PPC, there is also for 10.5.8 for intel. </br> 
+OSX Leopard 10.5.8 for PPC, there is also 10.5.8 for intel MacPro1,1 2006. </br> 
 or OSX Sobert 10.5.9 "unofficial, but faster! optimized for PPC" </br> 
 installing FS-UAE for LinuxPPC or OSX PPC </br>
 or installing QEMU for LinuxPPC or OSX PPC </br>
