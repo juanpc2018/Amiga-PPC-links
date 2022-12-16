@@ -40,14 +40,12 @@ AmigaOS4 does Not Boot directly on older Apple PowerMac G5, requires Qemu / WinU
 but does Boot directly on older Amiga A3000 / A4000 with PPC Cyberstom CPU board. </br>
 X1000 / X5000 require a different CD Image / Installer "No Classic" included with HW purchase / registration. </br>
 Different PowerPC CPUs require different installers. </br>
-Unknown if Classic installer or X5000 installer Boot directly on a Newer Raptor Talos II "dual cpu" / BlackBird "single cpu" </br>
-https://www.raptorcs.com/content/base/products.html </p>
 
 -----
 
 AmigaOS4.1 QuickStart Guide v1.1 </p>
 
-Option A) Use PPC emulator </br>
+Option A) Use PPC emulator. </br>
 Option B) Use compatible Hardware. </p>
 
 Option A) </br>
@@ -58,14 +56,21 @@ AmigaOS4.1 has different DVD installers, Classic version available for purchase,
 compatible with 440/460ex PPC CPUs, FS-UAE, QEMU and CyberStorm PPC accelerator board for A4000, maybe AmigaOne 500 also, </br>
 and the X1000 / X5000 version, designed for P5020 and P5040 PPC CPUs, only available when purchasing / registering New HW. </p>
 
-to Run AmigaOS on a Vintage G5 <2005, requires emulating PPC in a PPC: </br>
+Unknown if Classic installer or X5000 installer Boot directly on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
+https://www.raptorcs.com/content/base/products.html </br>
+Those machines are designed around IBM POWER9 v2 PPC RISC architecture. </br>
+https://en.wikipedia.org/wiki/POWER9 </p>
+
+To Run AmigaOS on a Vintage PowerMac G5 <2005 970 / 970FX / 970MP </br>
+https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
+requires emulating PowerPC in a PowerPC, to solve OpenFW & CPU differences </br>
 installing OSX for PPC or Linux for PPC, there are different Linux for PPC </br> 
-OSX Leopard 10.5.8 for PPC "there is also for intel" </br> 
-or OSX Sobert 10.5.9 "unofficial, but faster! more optimized for PPC" </br> 
+OSX Leopard 10.5.8 for PPC, there is also for 10.5.8 for intel. </br> 
+or OSX Sobert 10.5.9 "unofficial, but faster! optimized for PPC" </br> 
 installing FS-UAE for LinuxPPC or OSX PPC </br>
 or installing QEMU for LinuxPPC or OSX PPC </br>
-Emulating PPC with PPC is Not The Best Bare Metal option, </br>
-but if you have a G5, its an option. </br>
+Emulating PPC with PPC is Not The Best: Bare Metal option, </br>
+but if you have a G5, is an option. </br>
 
 Running / Installing AmigaOS4.1 can also be done on a Newer Windows, Mac or Linux. </p>
 
