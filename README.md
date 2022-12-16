@@ -45,25 +45,25 @@ Different PowerPC CPUs require different installers. </br>
 
 AmigaOS4.1 QuickStart Guide v1.1 </p>
 
-Option A) Use PPC emulator. </br>
-Option B) Use compatible Hardware. </p>
+Option A) Use PowerPC CPU emulator. </br>
+Option B) Use Real PowerPC compatible Hardware. </p>
 
 Option A) </br>
-AmigaOS4 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
-strange because AmigaOS4 is designed for PPC, and Apple PowerMac G5 are PowerPC, but Not all PowerPC CPUs are the same </br>
-the problem is different CPU design, like QEMU requires specific CPU to run. </br>
-AmigaOS4.1 has different DVD installers, Classic version available for purchase, </br>
-compatible with 440/460ex PPC CPUs, FS-UAE, QEMU and CyberStorm PPC accelerator board for A4000, maybe AmigaOne 500 also, </br>
-and the X1000 / X5000 version, designed for P5020 and P5040 PPC CPUs, only available when purchasing / registering New HW. </p>
+AmigaOS4.1 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
+thats strange because AmigaOS4 is designed for PPC, and Apple PowerMac G5 are PowerPC, but Not all PowerPC are the same </br>
+the problem is different Firmware & CPU design, like QEMU requires specific CPU to run. </br>
+AmigaOS4.1 has different DVD installers: Final Classic available for purchase, </br>
+compatible with Sam440/460ex PPC CPUs, FS-UAE, QEMU and CyberStorm PPC accelerator for A4000, maybe AmigaOne 500 also, </br>
+and the X1000 / X5000 version, designed for P5020 and P5040 PPC CPUs, only available when purchasing a New HW. </p>
 
 Unknown if Classic installer or X5000 installer Boot directly on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
 Those machines are designed around IBM POWER9 v2 PPC RISC architecture. </br>
 https://en.wikipedia.org/wiki/POWER9 </p>
 
-To Run AmigaOS on a Vintage PowerMac G5 <2005 970 / 970FX / 970MP </br>
+To Run AmigaOS on a Vintage PowerMac G5 <2005 with CPUs: 970 / 970FX / 970MP </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
-requires emulating PowerPC in a PowerPC, to solve OpenFW & CPU differences </br>
+requires emulating PowerPC in PowerPC, to solve OpenFW & CPU differences </br>
 installing OSX for PPC or Linux for PPC, there are different Linux for PPC </br> 
 OSX Leopard 10.5.8 for PPC, there is also for 10.5.8 for intel. </br> 
 or OSX Sobert 10.5.9 "unofficial, but faster! optimized for PPC" </br> 
