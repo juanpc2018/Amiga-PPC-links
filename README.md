@@ -112,13 +112,15 @@ https://www.amigaforever.com/kb/15-127 </p>
 Runing an Emulated AmigaOS4.1 has limitations vs. HW: </br>
 New Hardware has drivers for New Video cards, much faster, emulated video cards are Not the same </br>
 FS-UAE PPC is limited to the old Picasso-IV or A4000 AGA chip emulation </br>
-Emulation does Not allow to use Newer ZZ9000 "faster 100% compatible to Picasso-IV", with built in scan doubler, VGA out, 1Gb Ethernet, </br>
+https://en.wikipedia.org/wiki/Amiga_4000 </br>
+https://en.wikipedia.org/wiki/Amiga_4000T </br>
+Emulation does Not allow to use Newer MNT ZZ9000 "faster 100% compatible Picasso-IV GPU", with built-in scan doubler, VGA out, 1Gb Ethernet, </br>
 future USB Firmware upgrade. </p>
 
-New X5000 Hardware allows to install Faster / Newer Radeon HD / RX </br>
+New AmigaOne 500 & X5000 Hardware allows to install Faster Radeon HD / RX GPUs</br>
 New & old A4000 allow Newer / Faster ZZ9000 Zorro3 cards. </br>
 Emulation does Not. </br>
-JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster CPU, but does Not work with MMU.</p>
+JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster, but does Not work with MMU.</p>
 
 FS-UAE or QEMU requires to create a Virtual Harddrive, .hdf </br>
 FS-UAE has an option to Create .hdf clicking the FS-UAE icon, Not the most intuitive design. </br>
