@@ -34,7 +34,6 @@ but... P5 CPUs dont have https://en.wikipedia.org/wiki/AltiVec </p>
 in my experience faster is better vs. more but slower cores, because interrupts, OS are Not designed for True Parallel processing with less/No interrupts. </p>
 
 https://fs-uae.net/docs/amigaos-4-1 </br>
-http://zero.eik.bme.hu/~balaton/qemu/amiga/ </br>
 https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </br>
 AmigaOS4 does Not Boot directly on older Apple PowerMac G5, requires Qemu / WinUAE / LinuxPPC/OSX Sorbet 10.5.9 </br>
 but does Boot directly on older Amiga A3000 / A4000 with PPC Cyberstom CPU board. </br>
@@ -134,4 +133,5 @@ X1000 PPC PA6T-1682M dual core 2Ghz. </br>
 X5000 PPC P5020 / P5040 two / quad core @ 2GHz / 2.4Ghz. </p>
 
 Links / Tutorials: </br>
-http://pjhutchison.org/emulation/fs-uae_windows.html
+http://pjhutchison.org/emulation/fs-uae_windows.html </br>
+QEMU Tutorial: http://zero.eik.bme.hu/~balaton/qemu/amiga/ </br>
