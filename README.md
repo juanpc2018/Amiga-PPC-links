@@ -47,10 +47,10 @@ https://www.raptorcs.com/content/base/products.html </p>
 
 AmigaOS4.1 Quick Start Guide. </p>
 
-Option A) Use PPC emulator
-Option B) Use compatible Hardware, like Amiga X5000
+Option A) Use PPC emulator </br>
+Option B) Use compatible Hardware, like Amiga X5000 </p>
 
-Option A) 
+Option A) </br>
 AmigaOS4 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
 strange because AmigaOS4 is designed for PPC, and Apple PowerMac G5 are PowerPC, but Not all PowerPC CPUs are the same </br>
 the problem is different CPU design, like QEMU requires specific CPU to run. </br>
