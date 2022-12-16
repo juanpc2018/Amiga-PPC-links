@@ -45,7 +45,7 @@ https://www.raptorcs.com/content/base/products.html </p>
 
 -----
 
-AmigaOS4.1 Quick Start Guide. </p>
+AmigaOS4.1 QuickStart Guide v1.1 </p>
 
 Option A) Use PPC emulator </br>
 Option B) Use compatible Hardware. </p>
@@ -100,7 +100,7 @@ There is also a Diagnostic ROM for real Amiga Hardware, but also works in Emulat
 The problem with 3.x rom is that is Bigger than 1024KB, and requires a file of the ROM to be outsde on the Boot drive, </br>
 unless someone creates a modified A4000 recreation board that allows Bigger EEPROMS, a dual 1MB instead of dual 512KB. </p>
 
-Runing and Emulated AmigaOS4.1 has limitations vs. HW: </br>
+Runing an Emulated AmigaOS4.1 has limitations vs. HW: </br>
 New Hardware has drivers for New Video cards, much faster, emulated video cards are Not the same </br>
 FS-UAE PPC is limited to the old Picasso-IV or A4000 AGA chip emulation </br>
 Emulation does Not allow to use Newer ZZ9000 "faster 100% compatible to Picasso-IV", with built in scan doubler, VGA out, 1Gb Ethernet, </br>
@@ -110,6 +110,11 @@ New X5000 Hardware allows to install Faster / Newer Radeon HD / RX </br>
 New & old A4000 allow Newer / Faster ZZ9000 Zorro3 cards. </br>
 Emulation does Not. </br>
 JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster CPU, but does Not work with MMU.</p>
+
+FS-UAE or QEMU requires to create a Virtual Harddrive, .hdf </br>
+FS-UAE has an option to Create .hdf clicking the FS-UAE icon, Not the most intuitive design. </br>
+Has 2-options 1 partition or multiple partitions, for Boot requires multiple partitions, </br>
+1GB SWAP partition like Linux, Boot Partition Not Bigger than 4096MB "4GB" if using KickStart ROM 3.1. </p>
 
 Option B) Compatible Hardware: </br>
 Amiga A4000 with Phase5 PowerUp Cyberstorm PPC dual CPU accelerator board 68k & PowerPC 604e at 233MHz. </br>
