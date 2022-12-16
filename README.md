@@ -42,3 +42,63 @@ X1000 / X5000 require a different CD Image / Installer "No Classic" included wit
 Different PowerPC CPUs require different installers. </br>
 Unknown if Classic installer or X5000 installer Boot directly on a Newer Raptor Talos II "dual cpu" / BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </p>
+
+-----
+
+AmigaOS4.1 Quick Start Guide. </p>
+
+Option A) Use PPC emulator
+Option B) Use compatible Hardware, like Amiga X5000
+
+Option A) 
+AmigaOS4 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
+strange because AmigaOS4 is designed for PPC, and Apple PowerMac G5 are PowerPC, but Not all PowerPC CPUs are the same </br>
+the problem is different CPU design, like QEMU requires specific CPU to run / install. </br>
+AmigaOS4 has different DVD installers, Classic version available for purchase, </br>
+compatible with 440/460ex PPC CPUs, FS-UAE, and CyberStorm PPC accelerator board, maybe AmigaOne 500 also, </br>
+and the X1000 / X5000 version, designed for P5020 and P5040 PPC CPUs, only available when purchasing / registering HW. </p>
+
+to Run AmigaOS on a Vintage G5 <2005, requires emulating PPC in a PPC: </br>
+installing OSX for PPC or Linux for PPC, there are different Linux for PPC </br> 
+OSX Leopard 10.5.8 for PPC "there is also for intel" </br> 
+or OSX Sobert 10.5.9 "unofficial, but faster! more optimized for PPC" </br> 
+installing FS-UAE for LinuxPPC or OSX PPC </br>
+or installing QEMU for LinuxPPC or OSX PPC </br>
+Emulating PPC with PPC is Not The Best Bare Metal option, </br>
+but if you have a G5, its an option. </br>
+
+Running / Installing AmigaOS4.1 can also be done on a Newer Windows, Mac or Linux. </p>
+
+All have the same or very similar configuration steps. </p>
+
+#1. buy AmigaOS4.1 hard copy or download: </br>
+https://www.amigaos.net/content/4/where-buy </br>
+https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </p>
+
+After purchasing the Download version, </br> 
+will receive a Serial Activation Code by mail, </br>
+then open an account in hyperion website, </br>
+Register your Product on your Hyperion account, </br>
+find: AmigaOS4.1 Final Classic, </br>
+type your Serial Number, </br>
+Download the .iso and HotFix2 update from Downloads, </br>
+there are also Game Demos for download. </br>
+
+Then you need to Purchase a legal Amiga KickStart ROM 3.1 from an authorized website, </br>
+Total is around $50usd. </br>
+The idea is to support the developers, support a digital parallel reality, another timeline, think outside the box </br>
+There are KickStart ROMs in FloppyDisk for A1000, A3000 </br>
+Real EEPROMs, some machines require single and double 512k EEPROMs, stores like: </br>
+https://www.vesalia.de/e_kickstart.htm </br>
+https://www.amigaroms.com </br>
+and ROM file images, purchased license or extracted from a real Amiga Hardware. </br>
+
+After 3.1 ROMS, Amiga bankrupt, some people created modified versions of the ROMs with bug fixes and upgrades, </br>
+like the 3.x ROM that should have been callled 3.10, .x is too weird. </br>
+That ROM allows to have bigger than 4GB / 4096MB Boot drive, and many other fixes for real SCSI amigas. </br>
+There is also a Diagnostic ROM for real Amiga Hardware, but also works in Emulators. </br>
+The problem with 3.x rom is that is Bigger than 1024KB, and requires a file of the ROM to be outsde on the Boot drive, </br>
+unless someone creates a modified A4000 recreation board that allows Bigger EEPROMS, a dual 1MB instead of dual 512KB. </p>
+
+
+#2. 
