@@ -94,6 +94,7 @@ Total is around $50usd. </br>
 The idea is to support the developers, support a digital parallel reality, another timeline, think outside the box </br>
 There are KickStart ROMs in FloppyDisk for A1000, A3000 </br>
 Real EEPROMs, some machines require single and double 512k EEPROMs, stores like: </br>
+https://www.amigaforever.com/value/ </br>
 https://www.vesalia.de/e_kickstart.htm </br>
 https://www.amigaroms.com </br>
 and ROM file images, purchased license or extracted from a real Amiga Hardware. </br>
@@ -102,8 +103,11 @@ After 3.1 ROMS, Amiga bankrupt, some people created modified versions of the ROM
 like the 3.x ROM that should have been callled 3.10, .x is too weird. </br>
 That ROM allows to have bigger than 4GB / 4096MB Boot drive, and many other fixes for real SCSI amigas. </br>
 There is also a Diagnostic ROM for real Amiga Hardware, but also works in Emulators. </br>
+https://www.diagrom.com/index.php/download/ </br>
 The problem with 3.x rom is that is Bigger than 1024KB, and requires a file of the ROM to be outsde on the Boot drive, </br>
-unless someone creates a modified A4000 recreation board that allows Bigger EEPROMS, a dual 1MB instead of dual 512KB. </p>
+unless someone creates a modified A4000 recreation board that allows Bigger EEPROMS, a dual 1MB instead of dual 512KB. </br>
+https://github.com/libretro/libretro-uae/blob/master/README.md </br>
+https://www.amigaforever.com/kb/15-127 </p>
 
 Runing an Emulated AmigaOS4.1 has limitations vs. HW: </br>
 New Hardware has drivers for New Video cards, much faster, emulated video cards are Not the same </br>
@@ -126,3 +130,6 @@ Amiga A4000 with Phase5 PowerUp Cyberstorm PPC dual CPU accelerator board 68k & 
 AmigaOne 500 "Sam440/Sam460ex" PPC 1-core @ 1.115 GHz. </br>
 X1000 PPC PA6T-1682M dual core 2Ghz. </br>
 X5000 PPC P5020 / P5040 two / quad core @ 2GHz / 2.4Ghz. </p>
+
+Links / Tutorials: </br>
+http://pjhutchison.org/emulation/fs-uae_windows.html
