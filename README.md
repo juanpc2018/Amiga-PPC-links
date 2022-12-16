@@ -32,3 +32,6 @@ X5000  PPC P5020 / P5040 two / quad core @ 2GHz / 2.4Ghz. </br>
 but... P5 CPUs dont have https://en.wikipedia.org/wiki/AltiVec </p>
 
 in my experience faster is better vs. more but slower cores, because interrupts, OS are Not designed for True Parallel processing with less/No interrupts. </p>
+
+https://fs-uae.net/docs/amigaos-4-1 </br>
+https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </p>
