@@ -48,7 +48,7 @@ https://www.raptorcs.com/content/base/products.html </p>
 AmigaOS4.1 Quick Start Guide. </p>
 
 Option A) Use PPC emulator </br>
-Option B) Use compatible Hardware, like Amiga X5000 </p>
+Option B) Use compatible Hardware. </p>
 
 Option A) </br>
 AmigaOS4 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
@@ -111,4 +111,8 @@ New & old A4000 allow Newer / Faster ZZ9000 Zorro3 cards. </br>
 Emulation does Not. </br>
 JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster CPU, but does Not work with MMU.</p>
 
-#2. 
+Option B) Compatible Hardware: </br>
+Amiga A4000 with Phase5 PowerUp Cyberstorm PPC dual CPU accelerator board 68k & PowerPC 604e at 233MHz. </br>
+AmigaOne 500 "Sam440/Sam460ex" PPC 1-core @ 1.115 GHz. </br>
+X1000 PPC PA6T-1682M dual core 2Ghz. </br>
+X5000 PPC P5020 / P5040 two / quad core @ 2GHz / 2.4Ghz. </p>
