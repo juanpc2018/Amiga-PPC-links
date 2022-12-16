@@ -53,10 +53,10 @@ Option B) Use compatible Hardware, like Amiga X5000
 Option A) 
 AmigaOS4 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
 strange because AmigaOS4 is designed for PPC, and Apple PowerMac G5 are PowerPC, but Not all PowerPC CPUs are the same </br>
-the problem is different CPU design, like QEMU requires specific CPU to run / install. </br>
-AmigaOS4 has different DVD installers, Classic version available for purchase, </br>
-compatible with 440/460ex PPC CPUs, FS-UAE, and CyberStorm PPC accelerator board, maybe AmigaOne 500 also, </br>
-and the X1000 / X5000 version, designed for P5020 and P5040 PPC CPUs, only available when purchasing / registering HW. </p>
+the problem is different CPU design, like QEMU requires specific CPU to run. </br>
+AmigaOS4.1 has different DVD installers, Classic version available for purchase, </br>
+compatible with 440/460ex PPC CPUs, FS-UAE, QEMU and CyberStorm PPC accelerator board for A4000, maybe AmigaOne 500 also, </br>
+and the X1000 / X5000 version, designed for P5020 and P5040 PPC CPUs, only available when purchasing / registering New HW. </p>
 
 to Run AmigaOS on a Vintage G5 <2005, requires emulating PPC in a PPC: </br>
 installing OSX for PPC or Linux for PPC, there are different Linux for PPC </br> 
@@ -100,5 +100,15 @@ There is also a Diagnostic ROM for real Amiga Hardware, but also works in Emulat
 The problem with 3.x rom is that is Bigger than 1024KB, and requires a file of the ROM to be outsde on the Boot drive, </br>
 unless someone creates a modified A4000 recreation board that allows Bigger EEPROMS, a dual 1MB instead of dual 512KB. </p>
 
+Runing and Emulated AmigaOS4.1 has limitations vs. HW: </br>
+New Hardware has drivers for New Video cards, much faster, emulated video cards are Not the same </br>
+FS-UAE PPC is limited to the old Picasso-IV or A4000 AGA chip emulation </br>
+Emulation does Not allow to use Newer ZZ9000 "faster 100% compatible to Picasso-IV", with built in scan doubler, VGA out, 1Gb Ethernet, </br>
+future USB Firmware upgrade. </p>
+
+New X5000 Hardware allows to install Faster / Newer Radeon HD / RX </br>
+New & old A4000 allow Newer / Faster ZZ9000 Zorro3 cards. </br>
+Emulation does Not. </br>
+JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster CPU, but does Not work with MMU.</p>
 
 #2. 
