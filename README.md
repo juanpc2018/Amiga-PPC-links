@@ -35,4 +35,10 @@ in my experience faster is better vs. more but slower cores, because interrupts,
 
 https://fs-uae.net/docs/amigaos-4-1 </br>
 http://zero.eik.bme.hu/~balaton/qemu/amiga/ </br>
-https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </p>
+https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </br>
+AmigaOS4 does Not Boot directly on older Apple PowerMac G5, requires Qemu / WinUAE / LinuxPPC/OSX Sorbet 10.5.9 </br>
+but does Boot directly on older Amiga A3000 / A4000 with PPC Cyberstom CPU board. </br>
+X1000 / X5000 require a different CD Image / Installer "No Classic" included with HW purchase / registration. </br>
+Different PowerPC CPUs require different installers. </br>
+Unknown if Classic installer or X5000 installer Boot directly on a Newer Raptor Talos II "dual cpu" / BlackBird "single cpu" </br>
+https://www.raptorcs.com/content/base/products.html </p>
