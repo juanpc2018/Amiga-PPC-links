@@ -61,7 +61,7 @@ https://www.raptorcs.com/content/base/products.html </br>
 Those machines are designed for similar IBM POWER9 v2 PPC RISC architecture. </br>
 https://en.wikipedia.org/wiki/POWER9 </p>
 
-To Run AmigaOS on a Vintage PowerMac G5 <2005 with CPUs 970 / 970FX / 970MP </br>
+To Run AmigaOS on a Vintage PowerMac G5 2003-2005 with CPUs 970 / 970FX / 970MP </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 requires emulating PowerPC in PowerPC, to solve OpenFW & CPU differences </br>
 installing OSX for PPC or Linux for PPC, there are different Linux for PPC </br> 
