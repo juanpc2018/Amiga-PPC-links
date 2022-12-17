@@ -99,49 +99,49 @@ https://www.amigaos.net/content/4/where-buy </br>
 https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </p>
 
 After purchasing the Download version, </br> 
-will receive a Serial Activation Code by mail, </br>
-then open an account in hyperion website, </br>
-Register your Product on your Hyperion account, </br>
+will receive a Serial Activation Code by e-mail, </br>
+create an account in Hyperion website, </br>
+Login & Register your Serial, </br>
 find: AmigaOS4.1 Final Classic, </br>
-type your Serial Number, </br>
+type your Serial, </br>
 Download the .iso and HotFix2 update from Downloads, </br>
-there are also Game Demos for download. </br>
+there are also Game Demos for Download. </br>
 
 Then you need to Purchase a legal Amiga KickStart ROM 3.1 from an authorized website, </br>
 Total is around $50usd. </br>
 The idea is to support the developers, support a parallel digital reality, another timeline, to think outside the box. </br>
-There are KickStart ROMs in FloppyDisk for A1000, A3000 </br>
-Real EEPROMs, some machines require single or double 512k EEPROMs, stores like: </br>
+There are KickStart ROMs in FloppyDisk for A1000, A3000, Not Recommended. </br>
+Real EPROMs, some machines require single 1MB or double 512k EPROMs, from stores like: </br>
 https://www.amigaforever.com/value/ </br>
 https://www.vesalia.de/e_kickstart.htm </br>
 https://www.amigaroms.com </br>
-and ROM file images, license purchase or ROM extracted from a Real Amiga Hardware if you have one. </p>
+or ROM image file, a license purchase or extracted from a Real Amiga Hardware if you own one. </p>
 
 After 3.1 ROMS, Amiga bankrupt, some people created modified versions of the ROMs with bug fixes and upgrades, </br>
 like the 3.X ROM that should have been called 3.10, .x is too weird. </br>
-That ROM allows to have bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </br>
-There is also a Diagnostic ROM for real Amiga Hardware, but works in Emulators. </br>
+That ROM allows to have Bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </br>
+There is also a Diagnostic ROM for Amiga Hardware, but also works in Emulators. </br>
 https://www.diagrom.com/index.php/download/ </br>
-The problem with 3.x Rom: its Bigger than 1024KB, and requires a file of the ROM to be outsde the Rom on the Boot drive, </br>
-unless someone creates a modified A4000 board that allows Bigger EEPROMS, dual 1MB instead of dual 512KB. </br>
+The problem with 3.x Rom: is Bigger than 1024KB, and requires a file of the ROM to be outsde the ROM on the Boot drive, </br>
+unless someone creates a modified A4000 board that allows Bigger EPROMS, single 2MB, or dual 1MB instead of dual 512KB. </br>
 https://github.com/libretro/libretro-uae/blob/master/README.md </br>
 https://www.amigaforever.com/kb/15-127 </p>
 
 Runing an Emulated AmigaOS4.1 has limitations vs. HW: </br>
-New Hardware has ºdrivers for New Video cards, much faster, emulated video cards are Not the same </br>
+New Hardware has drivers for New Video cards, much faster, emulated video cards are Not the same. </br>
 FS-UAE PPC is limited to the old Picasso-IV or A4000 AGA chip emulation </br>
 https://en.wikipedia.org/wiki/Amiga_4000 </br>
 https://en.wikipedia.org/wiki/Amiga_4000T </br>
-Emulation does Not allow to use Newer MNT ZZ9000 "faster 100% compatible Picasso-IV GPU" with built-in scan doubler, VGA out, 1Gb Ethernet, future USB Firmware upgrade. </p>
+Emulation does Not allow to use Newer MNT ZZ9000 "Faster 100% compatible Picasso-IV GPU" with built-in scan doubler, VGA out, 1Gb Ethernet, future USB Firmware upgrade. </p>
 
-New AmigaOne 500 & X5000 Hardware allows to install Faster Radeon HD / RX GPUs</br>
-New & old A4000 allow Newer / Faster ZZ9000 Zorro3 cards. </br>
+New AmigaOne 500 & X5000 HW allows to install Faster Radeon HD / RX GPUs. </br>
+New & old A4000 allow Newer & Faster ZZ9000 Zorro3 cards. </br>
 Emulation does Not. </br>
 JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster, but does Not work with MMU.</p>
 
 FS-UAE or QEMU requires to create a Virtual Harddrive, .hdf </br>
 FS-UAE has an option to Create .hdf clicking the FS-UAE icon, Not the most intuitive design. </br>
-Has 2-options 1 partition or multiple partitions, for Boot requires multiple partitions, </br>
+Has 2-options: 1 partition or multiple partitions, for Boot requires multiple partitions, </br>
 1GB SWAP partition like Linux, Boot Partition Not Bigger than 4096MB "4GB" if using KickStart ROM 3.1. </p>
 
 Option B) Compatible Hardware: </br>
