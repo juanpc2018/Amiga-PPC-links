@@ -65,8 +65,8 @@ https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 requires emulating PowerPC in PowerPC, to solve OpenFW & CPU differences </br>
 installing OSX for PPC or Linux for PPC, there are different Linux for old & New PowerPC machines, like:</br> 
 https://amigaonthelake.com/new-6-13-2020-fienix-linux-distro-for-amigaone-64-bit-powerpc-systems/ </br>
-OSX Leopard 10.5.8 for PPC, there is also 10.5.8 for intel MacPro1,1 2006. </br> 
-or OSX Sobert 10.5.9 v1.5 "New 2022, faster! PPC optimized." </br> 
+OSX Leopard 10.5.8 for PPC, there is also 10.5.8 for intel "MacPro1,1 2006". </br> 
+or OSX Sobert 10.5.9 R15 "New 2022, faster! PPC optimized." </br> 
 https://macintoshgarden.org/apps/sorbet-leopard </br>
 https://forums.macrumors.com/threads/sorbet-leopard-your-power-mac-unleashed-revision-1-5-released.2300924/ </br>
 installing FS-UAE for LinuxPPC or OSX PPC </br>
