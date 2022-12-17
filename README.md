@@ -62,7 +62,7 @@ and the X1000 / X5000 installer designed for P5020 and P5040 PowerPC CPUs, Bundl
 
 Unknown if Classic installer or X5000 installer Boot on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
-Those machines are designed for a similar IBM POWER9 v2 PowerPC architecture. </br>
+Those machines have a similar IBM POWER9 v2 PowerPC architecture. </br>
 https://en.wikipedia.org/wiki/POWER9 </p>
 
 To Run AmigaOS4.1 on a Vintage PowerMac G5 2003-2005, CPUs: 970 / 970FX / 970MP </br>
