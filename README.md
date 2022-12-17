@@ -141,9 +141,52 @@ Emulation does Not. </br>
 JIT Compiler option in FS-UAE allows to Skip some steps, and Run Faster, but does Not work with MMU.</p>
 
 FS-UAE or QEMU requires to create a Virtual Harddrive, .hdf </br>
-FS-UAE has an option to Create .hdf clicking the FS-UAE icon, Not the most intuitive design. </br>
+FS-UAE has an option to Create .hdf clicking the [FS-UAE] icon at the left, Not the most intuitive design. </br>
 Has 2-options: 1 partition or multiple partitions, for Boot requires multiple partitions, </br>
 1GB SWAP partition like Linux, Boot Partition Not Bigger than 4096MB "4GB" if using KickStart ROM 3.1. </p>
+
+FS-UAE requires to manually instal the Optional Plugins, </br>
+https://fs-uae.net/download#plugins </p>
+
+in OSX .tar.gz requires Keka.app </p>
+
+/Users/YOU/Documents/FS-UAE/System/CAPSImg </br>
+/Users/YOU/Documents/FS-UAE/System/QEMU-UAE </p>
+
+AmigaOS4.1.iso </br>
+/Users/YOU/Documents/FS-UAE/CD-ROMs/ClassicInstallCD-53.71.iso </br>
+needs to be mounted in host OSX/Windows/Linux </br>
+inside has 2 .adf </br>
+copy to: </br>
+ /Users/YOU/Documents/FS-UAE/Floppies/BootFloppy.adf </br>
+Optional: </br>
+/Users/YOU/Documents/FS-UAE/Floppies/GREXBootDisk.adf </p>
+
+Other important Files: </br>
+/Users/YOU/Documents/FS-UAE/Kickstarts/Kickstart v3.1 rev 40.70 (1993)(Commodore)(A4000).rom </br>
+/Users/YOU/Documents/FS-UAE/Kickstarts/picasso_iv_flash.rom </br>
+/Users/YOU/Documents/FS-UAE/Kickstarts/cyberstormppc.rom </br>
+
+Blizzard SCSI does Not work when Cyberstom PPC SCSI is running. </br>
+/Users/YOU/Documents/FS-UAE/Kickstarts/Blizzard_SCSI_Kit_IV_v8.5.bin </p>
+
+Optional: /Users/juanpc/Documents/FS-UAE/Kickstarts/A4091.rom </p>
+
+Required: /Users/juanpc/Documents/FS-UAE/Hard Drives/AOS41.hdf </p>
+
+Recomended: 3990 MB </br>
+90000 Clusters 3/4 = 75% size to Boot Partition, </br>
+remaining Clusters to SWAP partition. </p>
+
+ZorroIII Fast RAM card can be used as Faster RAM SWAP in AmigaOS4.1 </br>
+No SWAP partition needed. </p>
+
+All FS-UAE RAM cards with 128MB recommended. </p>
+
+Emulating Sam460ex PPC + Picaso-IV in OSX HighSierra 10.13.6 x86_64 requires: </br>
+100% CPU load in a 2-core Mac Mini 2014 i5 2.8Ghz 8GB RAM. </p>
+
+----
 
 Option B) Compatible Hardware: </br>
 Amiga A4000 with Phase5 PowerUp Cyberstorm PPC dual CPU accelerator board 68k & PowerPC 604e at 233MHz. </br>
