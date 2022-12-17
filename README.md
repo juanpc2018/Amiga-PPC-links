@@ -60,6 +60,9 @@ AmigaOS4.1 has different DVD installers: Final Classic available for purchase, <
 compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, Amiga 4000 with CyberStorm PPC accelerator board, </br>
 and the X1000 / X5000 installer designed for P5020 and P5040 PowerPC CPUs, Bundled when purchasing New HW. </p>
 
+Untested: Build rEFInd from source on PPC, </br>
+http://www.rodsbooks.com/refind/getting.html </p> 
+
 Unknown if Classic installer or X5000 installer Boot on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
 Those machines have a similar IBM POWER9 v2 PowerPC architecture. </br>
