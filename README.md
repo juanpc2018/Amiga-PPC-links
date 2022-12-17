@@ -81,13 +81,13 @@ AmigaOS4.1 for New and old Amiga PowerPC CPUs.</br>
 All can be Run Real or Emulated.</p>
 
 Boot Differences: OSX G5 PPC vs. Amiga A4000 PPC </br>
-OSX OpenFirmware loads from Disk to RAM to Boot / initializer the Machine devices "keyboad, HDD controllers, etc. </br>
+OSX OpenFirmware loads from Disk to RAM to Boot / initialize the Machine devices "keyboad, HDD controllers, etc. </br>
 Amiga A4000 loads directly from EEPROM to Initialize / Boot the machine. </br>
 The Newer OSX method is suceptible to Boot Rom Virus, the boot partition can be modified from OSX, </br>
 but is cheaper, smaller & faster to manufacture.</br>
-Amiga EEPROM has limited size, requires a board PCB re-design to increase the size, a New Bigger EEPROM or multiple EEPROMS </br>
-More expensive, and Bigger size on the PCB, but EEPROMS last 1 Million R/W cycles  "last forever", better than Newer Flash ROMs, </br>
-the only way to modify an EEPROM is to remove it, erase it with UV-C light or HighVoltage 21vdc, and Write again with a Programmer = 100% Safer.</br>
+Amiga EPROM has limited size, requires a board PCB re-design to increase the size, a New Bigger EEPROM or multiple EEPROMs </br>
+More expensive, and Bigger size on the PCB, but EPROMs last 1 Million R/W cycles  "last forever", better than Newer Flash ROMs, </br>
+the only way to modify an EPROM is to Remove it, Erase it with UV-C light or HighVoltage 21vdc, and Write again with a Programmer = 100% Safer.</br>
 https://forums.macrumors.com/threads/the-open-firmware-wiki.2225024/ </p>
 
 Running / Installing AmigaOS4.1 can be done Emulated on a Newer Windows, Mac or Linux. </p>
