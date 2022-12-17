@@ -52,7 +52,7 @@ is the most economic way to enter AmigaOS4.1 ecosystem, </p>
 
 Limitations: </br>
 AmigaOS4.1 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
-thats weird because AmigaOS4. is designed for PowerPC CPUs, and Apple PowerMac G5 has PowerPC CPU, </br>
+thats weird because AmigaOS4. is designed for PowerPC, and Apple PowerMac G5 has PowerPC CPU, </br>
 but Not all PowerPC are the same. </br>
 different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </p>
 
