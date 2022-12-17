@@ -124,7 +124,7 @@ That ROM allows to have Bigger than 4GB / 4096MB Boot drive, and many other fixe
 There is also a Diagnostic ROM for Amiga Hardware, but also works in Emulators. </br>
 https://www.diagrom.com/index.php/download/ </br>
 The problem with 3.x Rom: is Bigger than 1024KB, and requires a file of the ROM to be outsde the ROM on the Boot drive, </br>
-unless someone creates a modified A4000 board that allows Bigger EPROMS, single 2MB, or dual 1MB instead of dual 512KB. </br>
+unless someone creates a modified A4000 board that allows Bigger EPROMs, single 2MB, or dual 1MB instead of dual 512KB. </br>
 https://github.com/libretro/libretro-uae/blob/master/README.md </br>
 https://www.amigaforever.com/kb/15-127 </p>
 
