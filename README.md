@@ -71,7 +71,7 @@ requires emulating PowerPC in PowerPC, to solve the OpenFW & CPU differences. </
 
 Unknown IF Raptor Sforza CPUs allow VM. </p>
 
-installing OSX for PPC or Linux for PPC: </br>
+installing OSX or Linux for PPC: </br>
 there are different Linux for old & New PowerPC machines, like:</br> 
 https://youtu.be/g-Ugfqj1ank </br>
 https://cdimage.debian.org/cdimage/ports/current/ </br>
