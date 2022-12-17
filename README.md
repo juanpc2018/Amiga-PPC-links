@@ -109,8 +109,8 @@ Download the .iso and HotFix2 update from Downloads, </br>
 there are also Game Demos for Download. </br>
 
 Then you need to Purchase a legal Amiga KickStart ROM 3.1 from an authorized website, </br>
-Total is around $50usd. </br>
-The idea is to support the developers, support a parallel digital reality, another timeline, to think outside the box. </br>
+Total is aprox. $50usd. </br>
+The idea is to support developers, support a parallel digital reality, another timeline, to think outside the box. </br>
 There are KickStart ROMs in FloppyDisk for A1000, A3000, Not Recommended. </br>
 Real EPROMs, some machines require single 1MB or double 512k EPROMs, from stores like: </br>
 https://www.amigaforever.com/value/ </br>
@@ -118,7 +118,7 @@ https://www.vesalia.de/e_kickstart.htm </br>
 https://www.amigaroms.com </br>
 or ROM image file, a license purchase or extracted from a Real Amiga Hardware if you own one. </p>
 
-After 3.1 ROMS, Amiga bankrupt, some people created modified versions of the ROMs with bug fixes and upgrades, </br>
+After 3.1 ROMs, Amiga bankrupt, some people created modified versions of the ROMs with bug fixes and upgrades, </br>
 like the 3.X ROM that should have been called 3.10, .x is too weird. </br>
 That ROM allows to have Bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </br>
 There is also a Diagnostic ROM for Amiga Hardware, but also works in Emulators. </br>
@@ -148,10 +148,15 @@ Has 2-options: 1 partition or multiple partitions, for Boot requires multiple pa
 FS-UAE requires to manually instal the Optional Plugins, </br>
 https://fs-uae.net/download#plugins </p>
 
-in OSX .tar.gz requires Keka.app </p>
+in OSX .tar.gz requires Keka.app </br>
+https://www.keka.io/ </p>
 
+Untar to: </br> 
 /Users/YOU/Documents/FS-UAE/System/CAPSImg </br>
 /Users/YOU/Documents/FS-UAE/System/QEMU-UAE </p>
+
+in my opinion, Plugins should be installed in ../Plugins, Not ../System but FS-UAE requires /System </br>
+FS-UAE is Not intuitive for begginers in some areas. </p>
 
 AmigaOS4.1.iso </br>
 /Users/YOU/Documents/FS-UAE/CD-ROMs/ClassicInstallCD-53.71.iso </br>
