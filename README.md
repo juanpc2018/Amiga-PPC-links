@@ -166,7 +166,8 @@ FS-UAE requires to manually instal the Optional Plugins, </br>
 https://fs-uae.net/download#plugins </p>
 
 in OSX .tar.gz requires Keka.app </br>
-https://www.keka.io/ </p>
+https://www.keka.io/ </br> 
+https://d.keka.io/ </p>
 
 Untar to: </br> 
 /Users/YOU/Documents/FS-UAE/System/CAPSImg </br>
