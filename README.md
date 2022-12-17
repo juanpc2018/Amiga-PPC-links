@@ -96,6 +96,7 @@ All have very similar configuration steps. </p>
 
 #1. buy AmigaOS4.1 hard copy or download: </br>
 https://www.amigaos.net/content/4/where-buy </br>
+https://amigaonthelake.com/amigaos-4-1-final-edition-sam-460-amigaone-500/#description </br>
 https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/174-amigaos-41-final-edition-for-classic </p>
 
 After purchasing the Download version, </br> 
