@@ -48,32 +48,38 @@ Option A) VirtualMachine with PowerPC CPU Emulator. </br>
 Option B) Real PowerPC compatible Hardware. </p>
 
 Option A) </br>
-is the most economic method to enter AmigaOS ecosystem, </p> 
+is the most economic way to enter AmigaOS4.1 ecosystem, </p> 
 
 Limitations: </br>
 AmigaOS4.1 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
-thats weird because AmigaOS4 is designed for PowerPC CPUs, and Apple PowerMac G5 has PowerPC CPU, </br>
+thats weird because AmigaOS4. is designed for PowerPC CPUs, and Apple PowerMac G5 has PowerPC CPU, </br>
 but Not all PowerPC are the same. </br>
-the problem is different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </br>
-AmigaOS4.1 has different DVD installers: Final Classic available for purchase, </br>
-compatible with AmigaOne 500 "Sam440/460ex PPC CPUs", FS-UAE, QEMU, Amiga 4000 with CyberStorm PPC accelerator board, </br>
-and the X1000 / X5000 installer designed for P5020 and P5040 PowerPC CPUs, Bundled when purchasing a New HW. </p>
+different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </p>
 
-Unknown if Classic installer or X5000 installer Boot directly on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
+AmigaOS4.1 has different DVD installers: Final Classic available for purchase, </br>
+compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, Amiga 4000 with CyberStorm PPC accelerator board, </br>
+and the X1000 / X5000 installer designed for P5020 and P5040 PowerPC CPUs, Bundled when purchasing New HW. </p>
+
+Unknown if Classic installer or X5000 installer Boot on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
 Those machines are designed for a similar IBM POWER9 v2 PowerPC architecture. </br>
 https://en.wikipedia.org/wiki/POWER9 </p>
 
-To Run AmigaOS4.1 on a Vintage PowerMac G5 2003-2005 with CPUs: 970 / 970FX / 970MP </br>
+To Run AmigaOS4.1 on a Vintage PowerMac G5 2003-2005, CPUs: 970 / 970FX / 970MP </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 requires emulating PowerPC in PowerPC, to solve the OpenFW & CPU differences. </p>
 
-installing OSX for PPC or Linux for PPC, there are different Linux for old & New PowerPC machines, like:</br> 
+Unknown IF Raptor Sforza CPUs allow VM. </p>
+
+installing OSX for PPC or Linux for PPC: </br>
+there are different Linux for old & New PowerPC machines, like:</br> 
 https://youtu.be/g-Ugfqj1ank </br>
 https://cdimage.debian.org/cdimage/ports/current/ </br>
 https://forums.macrumors.com/threads/debian-sid-installation-guide-powerpc.2146795/ </br>
 https://youtu.be/AArGaJGFVH4 </br>
 https://www.adelielinux.org/download/ </br>
+New PPC64Le: </br>
+https://torrent.fedoraproject.org/ </br>
 https://amigaonthelake.com/new-6-13-2020-fienix-linux-distro-for-amigaone-64-bit-powerpc-systems/ </p>
 
 OSX Leopard 10.5.8 for PPC, there is also 10.5.8 for intel "MacPro1,1 2006". </br> 
