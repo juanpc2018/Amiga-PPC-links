@@ -90,31 +90,30 @@ there are also Game Demos for download. </br>
 
 Then you need to Purchase a legal Amiga KickStart ROM 3.1 from an authorized website, </br>
 Total is around $50usd. </br>
-The idea is to support the developers, support a digital parallel reality, another timeline, think outside the box </br>
+The idea is to support the developers, support a parallel digital reality, another timeline, to think outside the box. </br>
 There are KickStart ROMs in FloppyDisk for A1000, A3000 </br>
-Real EEPROMs, some machines require single and double 512k EEPROMs, stores like: </br>
+Real EEPROMs, some machines require single or double 512k EEPROMs, stores like: </br>
 https://www.amigaforever.com/value/ </br>
 https://www.vesalia.de/e_kickstart.htm </br>
 https://www.amigaroms.com </br>
-and ROM file images, purchased license or extracted from a real Amiga Hardware. </br>
+and ROM file images, license purchase or ROM extracted from a Real Amiga Hardware if you have one. </p>
 
 After 3.1 ROMS, Amiga bankrupt, some people created modified versions of the ROMs with bug fixes and upgrades, </br>
-like the 3.x ROM that should have been callled 3.10, .x is too weird. </br>
-That ROM allows to have bigger than 4GB / 4096MB Boot drive, and many other fixes for real SCSI amigas. </br>
-There is also a Diagnostic ROM for real Amiga Hardware, but also works in Emulators. </br>
+like the 3.X ROM that should have been called 3.10, .x is too weird. </br>
+That ROM allows to have bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </br>
+There is also a Diagnostic ROM for real Amiga Hardware, but works in Emulators. </br>
 https://www.diagrom.com/index.php/download/ </br>
-The problem with 3.x rom is that is Bigger than 1024KB, and requires a file of the ROM to be outsde on the Boot drive, </br>
-unless someone creates a modified A4000 recreation board that allows Bigger EEPROMS, a dual 1MB instead of dual 512KB. </br>
+The problem with 3.x Rom: its Bigger than 1024KB, and requires a file of the ROM to be outsde the Rom on the Boot drive, </br>
+unless someone creates a modified A4000 board that allows Bigger EEPROMS, dual 1MB instead of dual 512KB. </br>
 https://github.com/libretro/libretro-uae/blob/master/README.md </br>
 https://www.amigaforever.com/kb/15-127 </p>
 
 Runing an Emulated AmigaOS4.1 has limitations vs. HW: </br>
-New Hardware has drivers for New Video cards, much faster, emulated video cards are Not the same </br>
+New Hardware has ºdrivers for New Video cards, much faster, emulated video cards are Not the same </br>
 FS-UAE PPC is limited to the old Picasso-IV or A4000 AGA chip emulation </br>
 https://en.wikipedia.org/wiki/Amiga_4000 </br>
 https://en.wikipedia.org/wiki/Amiga_4000T </br>
-Emulation does Not allow to use Newer MNT ZZ9000 "faster 100% compatible Picasso-IV GPU", with built-in scan doubler, VGA out, 1Gb Ethernet, </br>
-future USB Firmware upgrade. </p>
+Emulation does Not allow to use Newer MNT ZZ9000 "faster 100% compatible Picasso-IV GPU" with built-in scan doubler, VGA out, 1Gb Ethernet, future USB Firmware upgrade. </p>
 
 New AmigaOne 500 & X5000 Hardware allows to install Faster Radeon HD / RX GPUs</br>
 New & old A4000 allow Newer / Faster ZZ9000 Zorro3 cards. </br>
