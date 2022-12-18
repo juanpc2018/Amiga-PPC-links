@@ -212,7 +212,8 @@ No SWAP partition needed. </p>
 All FS-UAE RAM cards with 128MB recommended. </p>
 
 Emulating Sam460ex PPC + Picaso-IV in OSX HighSierra 10.13.6 x86_64 requires: </br>
-100% CPU load in a 2-core Mac Mini 2014 i5 2.8Ghz 8GB RAM. </p>
+100% CPU load on a 2-core Mac Mini 2014 i5 2.8Ghz 8GB RAM. </br>
+and Macs Fan Control: https://crystalidea.com/macs-fan-control/download </p>
 
 ----
 
