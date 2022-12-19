@@ -211,8 +211,12 @@ Recomended: 3990 MB </br>
 90000 Clusters 3/4 = 75% size to Boot Partition, </br>
 remaining Clusters to SWAP partition. </p>
 
-ZorroIII Fast RAM card can be used as Faster RAM SWAP in AmigaOS4.1 </br>
-No SWAP partition needed. </p>
+Zorro-III Fast RAM card can be used as Faster SWAP in AmigaOS4.1 </br>
+No SWAP partition needed, but latest AmigaOS4.1 Hotfox 2 has a patch to use FastRam as Fast RAM. </br>
+The Fastest RAM is closer to the CPU,</br>
+Z-3 FastRAM is slower becaise it far from CPU, and Zorro slot has limited access speed vs. Direct to CPU DMA speed. </br> 
+In my Opinion FastRAM is Not Real RAM, even if its Detected as Real RAM is too slow. Some applications wont care. </br>
+Quake cares, Play videos & photos from FastRAM is fast enough. </p>
 
 All FS-UAE RAM cards with 128MB recommended. </p>
 
