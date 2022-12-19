@@ -214,9 +214,12 @@ remaining Clusters to SWAP partition. </p>
 Zorro-III Fast RAM card can be used as Faster SWAP in AmigaOS4.1 </br>
 No SWAP partition needed, but latest AmigaOS4.1 Hotfox 2 has a patch to use FastRam as Fast RAM. </br>
 The Fastest RAM is closer to the CPU,</br>
-Z-3 FastRAM is slower becaise it far from CPU, and Zorro slot has limited access speed vs. Direct to CPU DMA speed. </br> 
-In my Opinion FastRAM is Not Real RAM, even if its Detected as Real RAM is too slow. Some applications wont care. </br>
-Quake cares, Play videos & photos from FastRAM is fast enough. </p>
+Z-3 FastRAM is slower because its far from CPU, and Zorro slot is a Bottleneck vs. Direct to CPU DMA speed. </br> 
+In my Opinion FastRAM is Not Real RAM, even its Detected as Real RAM is too slow.</br>
+same as modern PCs for decades, PCIe was always slower vs. Direct RAM. </br>
+Some Amiga applications wont care FastRAM its slower. </br>
+Quake cares, but to Play videos & photos from FastRAM is fast enough, </br>
+there are Amiga players that play direcly from SCSI & PATA, but most Player try to Play from RAM. </p>
 
 All FS-UAE RAM cards with 128MB recommended. </p>
 
