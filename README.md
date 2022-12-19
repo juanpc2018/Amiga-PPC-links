@@ -140,11 +140,16 @@ or ROM image file, a license purchase or extracted from a Real Amiga Hardware if
 
 After 3.1 ROMs, Amiga bankrupt, some people created modified versions of the ROMs with bug fixes and upgrades, </br>
 like the 3.X ROM that should have been called 3.10, .x is too weird. </br>
-That ROM allows to have Bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </br>
-There is also a Diagnostic ROM for Amiga Hardware, but also works in Emulators. </br>
+That ROM allows to have Bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </p>
+
+Diagnostic ROM for Amiga HW, but also works in Emulators. </br>
 https://www.diagrom.com/index.php/download/ </br>
-and Floppy Test Kit </br>
+HW Floppy Test Kit </br>
 https://github.com/keirf/amiga-stuff </br>
+PPC PowerUP Test Disk: </br>
+https://powerup.amigaworld.de/index.php?lang=en&page=24 </br>
+https://powerup.amigaworld.de/download.php?id=59 </p>
+
 The problem with 3.x Rom: is Bigger than 1024KB, and requires a file of the ROM to be outsde the ROM on the Boot drive, </br>
 unless someone creates a modified A4000 board that allows Bigger EPROMs, single 2MB, or dual 1MB instead of dual 512KB. </br>
 https://github.com/libretro/libretro-uae/blob/master/README.md </br>
