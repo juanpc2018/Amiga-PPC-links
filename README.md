@@ -203,9 +203,9 @@ Other important Files: </br>
 Blizzard SCSI does Not work when Cyberstom PPC SCSI is running. </br>
 /Users/YOU/Documents/FS-UAE/Kickstarts/Blizzard_SCSI_Kit_IV_v8.5.bin </p>
 
-Optional: /Users/juanpc/Documents/FS-UAE/Kickstarts/A4091.rom </p>
+Optional: /Users/YOU/Documents/FS-UAE/Kickstarts/A4091.rom </p>
 
-Required: /Users/juanpc/Documents/FS-UAE/Hard Drives/AOS41.hdf </p>
+Required: /Users/YOU/Documents/FS-UAE/Hard Drives/AOS41.hdf </p>
 
 Recomended: 3990 MB </br>
 90000 Clusters 3/4 = 75% size to Boot Partition, </br>
