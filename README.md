@@ -231,3 +231,7 @@ X5000 PPC P5020 / P5040 two / quad core @ 2GHz / 2.4Ghz. </p>
 Links / Tutorials: </br>
 http://pjhutchison.org/emulation/fs-uae_windows.html </br>
 QEMU Tutorial: http://zero.eik.bme.hu/~balaton/qemu/amiga/ </br>
+
+Boot Menus: </br>
+Amiga 3.2 ROM: Click Both Mouse Buttons at Boot. </br>
+CyberStorm PPC PowerUP Boot Rom Menu: Press [Esc] at Boot. </p>
