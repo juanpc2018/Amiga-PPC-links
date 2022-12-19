@@ -142,7 +142,7 @@ After 3.1 ROMs, Amiga bankrupt, some people created modified versions of the ROM
 like the 3.X ROM that should have been called 3.10, .x is too weird. </br>
 That ROM allows to have Bigger than 4GB / 4096MB Boot drive, and many other fixes for Real SCSI Amigas. </p>
 
-Diagnostic ROM for Amiga HW, but also works in Emulators. </br>
+Diagnostic ROM for Amiga HW, also works in Emulators. </br>
 https://www.diagrom.com/index.php/download/ </br>
 HW Floppy Test Kit </br>
 https://github.com/keirf/amiga-stuff </br>
