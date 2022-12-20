@@ -5,6 +5,7 @@ it is interesting an Amiga PCB with dual CPU, 68k and PowerPC 604e @ 233MHz. </p
 
 https://amiga.resource.cx/exp/cyberstormppc </br>
 http://phase5.a1k.org/index.html </br>
+http://phase5.a1k.org/ </br>
 https://translated.turbopages.org/proxy_u/de-en.en.020075d3-639a999b-ccf08960-74722d776562/https/www.amigawiki.org/doku.php?id=de:expansion:cpu:cyberstorm_ppc </p>
 
 https://youtu.be/AZL86gZr0LA </p>
