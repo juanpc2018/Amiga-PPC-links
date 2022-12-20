@@ -131,7 +131,7 @@ there are also Game Demos for Download. </br>
 
 Then you need to Purchase a legal Amiga KickStart ROM 3.1 from an authorized website, </br>
 Total is aprox. $50usd. </br>
-The idea is to support developers, support a parallel digital reality, another timeline, to think outside the box. </br>
+The idea is to support developers, support parallel digital reality, another timeline, think outside the box. </br>
 There are KickStart ROMs in FloppyDisk for A1000, A3000, Not Recommended. </br>
 Real EPROMs, some machines require single 1MB or double 512k EPROMs, from stores like: </br>
 https://www.amigaforever.com/value/ </br>
@@ -187,9 +187,14 @@ Untar to: </br>
 in my opinion, Plugins should be installed in ../Plugins, Not ../System but FS-UAE requires /System </br>
 FS-UAE is Not intuitive for begginers in some areas. </p>
 
+There are 2 Options here,
+A) Boot & Install from Floppy
+B) Boot & Install from CD.iso
+
+A) Option has Low-Res graphics.
 AmigaOS4.1.iso </br>
 /Users/YOU/Documents/FS-UAE/CD-ROMs/ClassicInstallCD-53.71.iso </br>
-needs to be mounted in host OSX/Windows/Linux </br>
+mounted in host OSX/Windows/Linux </br>
 inside has 2 .adf </br>
 copy to: </br>
  /Users/YOU/Documents/FS-UAE/Floppies/BootFloppy.adf </br>
@@ -208,19 +213,26 @@ Optional: /Users/YOU/Documents/FS-UAE/Kickstarts/A4091.rom </p>
 
 Required: /Users/YOU/Documents/FS-UAE/Hard Drives/AOS41.hdf </p>
 
+B) To Boot from CD, </br>
+requires to Manually Edit the CyberStorm PPC BIOS, </br>
+pressing [Esc] at Boot, requires latest ROM 44.71 </br>
+SCSI menu: </br>
+adjust SCSI device ID 0 or 1 to CD Boot, Not Mount. LUA 1 for each Device. </br>
+All other devices can be set: No LUA "Dissabled" <7p>
+
 Recomended: 3990 MB </br>
 90000 Clusters 3/4 = 75% size to Boot Partition, </br>
 remaining Clusters to SWAP partition. </p>
 
-Zorro-III Fast RAM card can be used as Faster SWAP in AmigaOS4.1 </br>
-No SWAP partition needed, but latest AmigaOS4.1 Hotfox 2 has a patch to use FastRam as Fast RAM. </br>
+Zorro-III Fast RAM card can be used as Fast SWAP in AmigaOS4.1 </br>
+No SWAP partition needed, but latest AmigaOS4.1 Hotfix2 has a patch to use FastRam as RAM. </br>
 The Fastest RAM is closer to the CPU,</br>
-Z-3 FastRAM is slower because its far from CPU, and Zorro slot is a Bottleneck vs. Direct to CPU DMA speed. </br> 
-In my Opinion FastRAM is Not Real RAM, even its Detected as Real RAM is too slow.</br>
-same as modern PCs for decades, PCIe was always slower vs. Direct RAM. </br>
-Some Amiga applications wont care FastRAM its slower. </br>
-Quake cares, but to Play videos & photos from FastRAM is fast enough, </br>
-there are Amiga players that play direcly from SCSI & PATA, but most Player try to Play from RAM. </p>
+Zorro-3 FastRAM is Slower because its far from the CPU, and Zorro slot is a Bottleneck vs. Direct to CPU. </br> 
+In my Opinion FastRAM is Not Real RAM, even is Detected as Real RAM is too slow.</br>
+same as modern PCs, for decades PCIe was slower vs. RAM. </br>
+Some Amiga applications wont care Zorro-RAM is slower. </br>
+Quake cares, but to Play videos & large photos from Zorro-RAM is fast enough, </br>
+there are Amiga players that play direcly from SCSI & PATA, but most Players Play from RAM. </p>
 
 All FS-UAE RAM cards with 128MB recommended. </p>
 
