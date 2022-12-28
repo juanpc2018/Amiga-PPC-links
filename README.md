@@ -277,11 +277,42 @@ CoffinOS <-- AmigaOS3.9 </p>
 AROS = AROS Research Operating System, </br>
 was called Amiga.Research.Operating.System, but copyrights. </br>
 AROS has different versions for x86, 68k like Linux. </br>
-icAROS, ArosONE, ApolloOS, etc... </p>
+icAROS, ArosONE, ApolloOS, Vision, Aspire, Caffeine, PiAROS, etc... </p>
+
+http://aros-vision.de </br>
+http://www.aros-vision.de/downloads/aros_2020_Basis_UAE.7z </br>
+https://aros.sourceforge.io/download.php </br>
+https://aros.sourceforge.io/nightly1.php </br>
+
+icAROS </br>
+http://live.icarosdesktop.org </br>
+https://vmwaros.blogspot.com/p/versions-comparison.html </br>
+https://vmwaros.blogspot.com/p/download.html </br>
+http://www.icarosdesktop.com/icarosfiles/IcarosLive_2_3_0.zip </br>
+http://www.icarosdesktop.com/icarosfiles/IcarosDesktop_manual.pdf </p>
+Beta:
+http://www.icarosdesktop.com/BETA/20220624/live-experimental.iso </br>
+https://vmwaros.blogspot.com/2022/06/a-new-beta.html </br>
+https://ae.amigalife.org/index.php?topic=922.0 </p>
+
+AspireOS to Run in old / weak x86 machines "LightWeight" Q6600, etc... </br>
+https://sites.google.com/site/arosaspireone/ </br>
+
+ArosONE 
+https://sites.google.com/view/arosone
+for x86
+https://drive.google.com/file/d/1aciaZv0C7e0uJrwuQeIMZd_5GE1X7Txu/view?usp=share_link
+https://drive.google.com/file/d/1dejqGqW3Hic89ij6JkTduamHriLPFWIP/view?usp=share_link
+for 68k
+https://www.google.com/url?q=https%3A%2F%2Fae.amigalife.org%2Findex.php%3Ftopic%3D696.0&sa=D&sntz=1&usg=AOvVaw3vimUzGUbQ6r2MvMMSJAp9
+
+icAROS for x86 machines has AmiBridge a 68k emulator, and HostBridge when used as VM </br>
+https://vmwaros.blogspot.com/p/amibridge.html </br>
+https://vmwaros.blogspot.com/p/hostbridge.html <(p>
 
 AmigaOS3 / 4 are Closed Source like UNIX or Win. </br>
-AmigaOS3.x are for Motorola 68k CPUs. </br>
-AmigaOS4.1 is Only for PowerPC CPUs, different CPUs require different installer .iso 
+AmigaOS3 is for Motorola 68k CPUs. </br>
+AmigaOS4 is for PowerPC CPUs, different CPUs require different installer .iso </br> 
 for pruchase on Hyperio Website is Classic Final Edition for Sam460 CPUs, Pegasos, and Emulators. </p>
 
 AROS is binary compatible Open Source to AmigaOS3.x, like Linux or ReactOS are to UNIX and Win. </br>
