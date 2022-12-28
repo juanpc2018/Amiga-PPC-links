@@ -265,3 +265,48 @@ AmiStore allows to Buy / Download A-EON software like Enhancer, Paint, RadeonHD 
 http://secure.a-eon.biz/register_user.php </br>
 A-EON software for AmigaOS3 has downloads from the web page. </p>
 
+
+-----
+
+Amiga 68k
+
+ApolloOS 68k <-- AROS 68k <-- AmigaOS3.2 </br>
+CaffeineOS <-- AROS 68k <-- AmigaOS3.2 </br>
+CoffinOS <-- AmigaOS3.9 </p>
+
+AROS = AROS Research Operating System, </br>
+was called Amiga.Research.Operating.System, but copyrights. </br>
+AROS has different versions for x86, 68k like Linux. </br>
+icAROS, ArosONE, ApolloOS, etc... </p>
+
+AmigaOS3 / 4 are Closed Source like UNIX or Win. </br>
+AmigaOS3.x are for Motorola 68k CPUs. </br>
+AmigaOS4.1 is Only for PowerPC CPUs, different CPUs require different installer .iso 
+for pruchase on Hyperio Website is Classic Final Edition for Sam460 CPUs, Pegasos, and Emulators. </p>
+
+AROS is binary compatible Open Source to AmigaOS3.x, like Linux or ReactOS are to UNIX and Win. </br>
+MorphOS is Closed Source AROS for PowerPC machines, soon ARM. </br>
+Fienix is a Linux Distro for PowerPC, https://fienixppc.blogspot.com </p>
+
+https://www.amigafrance.com/forums/topic/winuae-coffinos/ </br>
+https://getcoffin.net </br>
+https://archive.org/search.php?query=CaffeineOS </br>
+http://45.133.9.142/retro/apollo-os-8-1/ </p>
+
+Most AROS distros work with Legal Amiga KickStart ROMS from AmigaForever or extracted from a Real Amiga HW </br>
+some require special custom ROMs. </p>
+
+Amiga DEMO Scene is still alive, unliike C64 demo scene,</br>
+Demos are Short Programs desgined to test Sound and Image Chips OCS ECS AGA or as Benchmark. </br>
+a test running inside the OS </br>
+New Demos are made today exaple: </br>
+https://www.pouet.net/prod.php?which=93011 </p>
+
+Amiga 68k OS, Original Amiga or AROS "UNIX or Linux" </br>
+allow to Run MacOS 7.1 to MacOS8.1 Color Emulation, </br>
+https://shapeshifter.cebix.net </br>
+many Games and software can be found in MacGardern, MacRepository and Archive.org </p>
+
+Sonnet G3 G4 PCI cards & others can be installed in BigBox Amigas with Mediator PCI riser board. </br>
+requires AmigaOS3.9 and installation is Not easy, but allows to Run PPC software, </br>
+but New PPC machines are much faster. </p>
