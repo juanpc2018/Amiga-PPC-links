@@ -274,8 +274,8 @@ ApolloOS 68k <-- AROS 68k <-- AmigaOS3.2 </br>
 CaffeineOS <-- AROS 68k <-- AmigaOS3.2 </br>
 CoffinOS <-- AmigaOS3.9 </p>
 
-AROS = AROS Research Operating System, </br>
-was called Amiga.Research.Operating.System, but copyrights. </br>
+AROS.Research.Operating.System </br>
+was called Amiga.Research.Operating.System, but copyrights happened. </br>
 AROS has different versions for x86, 68k like Linux. </br>
 icAROS, ArosONE, ApolloOS, Vision, Aspire, Caffeine, PiAROS, etc... </p>
 
@@ -294,6 +294,13 @@ Beta:
 http://www.icarosdesktop.com/BETA/20220624/live-experimental.iso </br>
 https://vmwaros.blogspot.com/2022/06/a-new-beta.html </br>
 https://ae.amigalife.org/index.php?topic=922.0 </p>
+for x64: </br>
+https://vmwaros.blogspot.com/p/64-bit.html </br>
+https://vmwaros.blogspot.com/p/icaros-64-current-status.html </br>
+https://vmwaros.blogspot.com/2019/07/lets-talk-frankly-about-64-bits.html </br>
+https://vmwaros.blogspot.com/2019/10/icaros-64-v000-pre-alpha-is-available.html </br>
+Icon Designer: </br>
+https://vmwaros.blogspot.com/p/iconposer.html </p>
 
 AspireOS to Run in old / weak x86 machines "LightWeight" Q6600, etc... </br>
 https://sites.google.com/site/arosaspireone/ </br>
