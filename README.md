@@ -481,9 +481,24 @@ Has Xylinx Spartan3 to emulate all OCS, ECS, AGA chipset, </br>
 but comes with a Real 68k CPU to work out of the box. </br>
 Some FPGA allow to Run other ROM systems: AtariST, AMIGA, Arcade "PacMan", Comodore64, and others. </p>
 
-if already own an accelerator board or plan some day build a Real Amiga500 PCB </br>
+if already own an accelerator board or plan to build a Real Amiga 500 </br>
 MiniMig is a nice way to start. </br>
-IF you do Not plan to build a Real Amiga, or dont have an Accelerator Board, </br>
+IF do Not plan to build a Real Amiga & dont have an Accelerator Board, </br>
 a Stand alone would be better option, MiniMig Stand Alone CPU is too slow like a real 68k CPU. </br>
 IF Want AtariST MIDI, MIST v1.5 is the best FPGA option. </br>
 IF want the fastest & most advanced FPGA for Amiga: V4+ </p>
+
+IF want to use Zorro expansion cards, AtariST or Commodore Cartridges. </br>
+FPGA is Not for you. </p>
+
+https://www.minimig.ca
+http://www.apollo-computer.com/
+https://lotharek.pl/productdetail.php?id=45 
+
+Price aprox.:
+MIST 1.5 $250usd.
+Minimig 1.91 Rev9 $350usd.
+Vampire V4+ Stand Alone $800usd.
+
+i dont like MISTer, because its Not a custom PCB, just a developer board.
+around $550usd. in Amiga Authorized Stores.
