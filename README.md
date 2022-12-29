@@ -53,13 +53,18 @@ is the most economic way to enter AmigaOS4.1 ecosystem, </p>
 
 Limitations: </br>
 AmigaOS4.1 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
-thats weird because AmigaOS4. is designed for PowerPC, and Apple PowerMac G5 has PowerPC CPU, </br>
-but Not all PowerPC are the same. </br>
+thats because: </br>
+Apple PowerPC, Pegasos and other PowerPC like ACube Sam460 are CHRP-compliant systems. </br>
+but AmigaOne X1000, AmigaOne X5000 and NXP T2080RDB-PC are Not. </br>
+and X1000 is also different than X5000 / NXP </br>
+AmigaOS4 is designed for PowerPC, and Apple PowerMac G5 has PowerPC CPU, </br>
+but All PowerPC are Not the same. </br>
 different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </p>
 
-AmigaOS4.1 has different DVD installers: Final Classic available for purchase, </br>
-compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, Amiga 4000 with CyberStorm PPC accelerator board, </br>
-and the X1000 / X5000 installer designed for P5020 and P5040 PowerPC CPUs, Bundled when purchasing New HW. </p>
+AmigaOS4.1 and Fienix Linux has different .iso installers: </br>
+AmigaOS4.1 Classic Final Edition available for purchase from Hyperion Website or Boxed from Authorized distributors, </br>
+Classic is compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, and Amiga 4000 with CyberStorm PPC accelerator board, </br>
+the X1000 / X5000 installer designed for other PowerPC CPUs, Bundled when purchasing X5000 New. </p>
 
 Untested: Build rEFInd from source on PPC, </br>
 http://www.rodsbooks.com/refind/getting.html </p> 
@@ -67,13 +72,12 @@ http://www.rodsbooks.com/refind/getting.html </p>
 Unknown if Classic installer or X5000 installer Boot on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
 Those machines have a similar IBM POWER9 v2 PowerPC architecture. </br>
-https://en.wikipedia.org/wiki/POWER9 </p>
+https://en.wikipedia.org/wiki/POWER9 </br>
+Unknown IF Raptor Sforza CPUs allow VM. </p>
 
 To Run AmigaOS4.1 on a Vintage PowerMac G5 2003-2005, CPUs: 970 / 970FX / 970MP </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
 requires emulating PowerPC in PowerPC, to solve the OpenFW & CPU differences. </p>
-
-Unknown IF Raptor Sforza CPUs allow VM. </p>
 
 installing OSX or Linux for PPC: </br>
 there are different Linux for old & New PowerPC machines, like:</br> 
@@ -511,7 +515,7 @@ Accelerator Boards </p>
 Have 3 categories: </br>
 A) Real Motorola CPU </br>
 B) Emulated CPU </br>
-C) Hybrid. </p>
+C) Hybrid CPU. </p>
 
 A) Original Amiga A3630 A3640 </br>
 Replicas with Real CPU. </br>
@@ -521,8 +525,8 @@ B) Emulated CPU </br>
 FPGA or PiStorm+Emu68k Software Emualtion, </br>
 compatible Hardware to interact with real Amiga Hardware PCB. </p>
 
-C) CyberStorm PPC604e Boards. </br>
+C) CyberStorm PPC604e Boards, </br>
 Motorola + PowerPC CPU. </br>
 There is also stand alone PowerPC PCI cards from Sonnet and others, </br>
-work on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Board. </p>
+works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </p>
 
