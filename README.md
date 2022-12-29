@@ -334,13 +334,18 @@ http://45.133.9.142/retro/apollo-os-8-1/ </p>
 Most AROS distros work with Legal Amiga KickStart ROMS from AmigaForever or extracted from a Real Amiga HW </br>
 some require special custom ROMs. </p>
 
-Amiga DEMO Scene is still alive, unliike C64 demo scene,</br>
-Demos are Short Programs desgined to test Sound and Image Chips OCS ECS AGA or as Benchmark. </br>
-a test running inside the OS </br>
+Amiga DEMO Scene is still alive, and very usefull to test differences between HW accelerators,</br>
+Demos are Short Programs desgined to test Sound and Image OCS ECS AGA chips or as Benchmark. </br>
+test running inside the OS </br>
 New Demos are made today exaple: </br>
 https://www.pouet.net/prod.php?which=93011 </br>
 https://www.pouet.net/prod.php?which=2597 </br>
 https://files.scene.org/view/mirrors/amigascne/Groups/C/CarillonCyberiad/Deep-The_Psilocybin_Mix.LHA </p>
+Demos Winning competition in 1995: </br>
+http://janeway.exotica.org.uk/release.php?id=10900
+https://aminet.net/package/demo/ta95/Zif_Parallax
+https://files.scene.org/view/mirrors/amigascne/Groups/P/Parallax/PARALLAX-zif-AGA.lha 
+https://www.pouet.net/prod.php?which=1149 </p>
 
 Amiga 68k OS, Original Amiga or AROS "UNIX or Linux" </br>
 allow to Run MacOS 7.1 to MacOS8.1 Color Emulation, </br>
