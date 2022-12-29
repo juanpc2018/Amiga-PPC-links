@@ -350,3 +350,126 @@ many Games and software can be found in MacGardern, MacRepository and Archive.or
 Sonnet G3 G4 PCI cards & others can be installed in BigBox Amigas with Mediator PCI riser board. </br>
 requires AmigaOS3.9 and installation is Not easy, but allows to Run PPC software, </br>
 but New PPC machines are much faster. </p>
+
+------
+
+Amiga Hardware:
+
+There are 3 Paths:
+for 68k
+for PowerPC
+Hybrid PPC cards in 68k machines or 68k emulation in PPC machines.
+
+BigBox Amigas like 4000
+Are the most expandable, upgradable machines.
+But 060 CPUs have compatibility issues with older Amiga 500 Games,
+
+68k cpus were 16-Bits,
+Since 68030 the transition to 32-Bit begun,
+But that Transition had errors.
+For example, the last 68k CPU
+Was Motorola / Freescale 68060 Rev6
+available in 50Mhz, 60Mhz and 66MHz. 
+75MHz was also available but was LC060 No FPU,
+And EC060 No FPU, No MMU.
+FPU was the same 68882 in all versions. </p>
+
+There was 6 revisions of the same 060 CPU,
+Before that, there were many more...
+020, 030, 040, 060
+
+Most Games were designed with/for Amiga500,
+Not Amiga 4000
+Accelerator boards were rare those days, 
+But today are very common.
+
+68060 has several problems:
+#1. Price, sold at $400usd. From China and Russian Sellers.
+#2. Requires a BFG9060 CPU PCB Board, with FPGA + RAM.
+The Only advantage is the 128MB CPU RAM. "fastest RAM possible."
+But The price of the board is over $300usd. Pre-built, Flashed. No CPU.
+CPU + Board is closer to $800usd. Including shipping.
+
+For that money you can buy an Apollo Vampire V4 Stand Alone.
+With 68080 FPGA CPU  
+Way faster: 3x vs. 060 at 100Mhz.
+Much More advanced 080 instructions.
+
+As Fast as PowerPC at 800Mhz,
+Almost as fast as Sam460ex CPU in the AmigaONE 500 1.1Ghz CPU & Pegasos.
+
+Another problem is that Original Motorola / Freescale CPU is ASIC,
+Cannot be Upgraded with a Firmware update, errors cannot be fixed, 
+and that CPU architecture is No longer manufactured. </br>
+Would be very interesting to see a 1.4volts or less 5nm 060 CPU,
+It could run way faster than 100Mhz, but that is dream land,
+Its possible someone can reverse eng. the CPU. 
+And ask a FAB like TSMC or Intel to Print the CPUs with New technology. </p>
+But Printing ICs takes months, and costs $$$, requires to print a full 300mm waffer. 
+in the mean time...
+
+There are other options:
+Vampire 080 FPGA CPU,
+PiStorm + Emu68k
+
+Vampire 080 is 64-Bit FPGA CPU, much better than 060, has AMMX instructions, SAGA and many other improvements.
+PiStorm+Emu68k is 16-Bit Only, but is Fast.
+
+When Emu68k is run Bare Metal in PiStorm, has the fastest Sysinfo Drystone Score,
+between 600k and 800k
+There are other PiAmigas, but require RaspberryOS, and that lowers performance a lot,
+to the same level of a 060 at 100Mhz, less than 150k Drystones.
+
+PiStorm32 is soon to be released,
+That would kill the BFG9060 board and the 060 R6 CPU at 100Mhz,
+Price is much lower, and Performance the same or faster Unknown at this moment.
+
+unknown what CPU Emu68 plan to emulate, 030, 040, 060 or different to solve compatibility issues.
+
+At this moment, 
+waiting for a PiStorm32 is a better option than purchasing a BFG9060 + 060 R6 CPU.
+
+The Best option Right Now: 
+Purchasing a Vampire V4 080 FPGA is the best option.
+But Not all Vampire V4 are the same,
+Fire and Standalone are the Best / Fastest, the others are a bit slower.
+
+080 New instructions and faster vs. RaspberryOS Amiga Emulations
+and vs. Real 060 CPU overclocked to 100Mhz.
+
+Not as Fast as PiStorm + Emu68k Bare Metal "No RaspberryOS",
+But has New 080 64-Bit instructions, 
+Emu68k has only 16-Bit instructions.
+
+The Future of Amiga68k is the 080 CPU.
+Is ready Today, and has New instructions to develop New, More advanced software.
+
+FPGA can also emulate PowerPC CPUs in the future, 
+The future of Amiga looks bright.
+68k + PPC Hybrid system.
+
+
+Running AmigaOS4.1 Emulated in weak x86_64 requires too much CPU+Cooling.
+Would be interesting to see how it works in a 13900k,
+But... that money could be used to buy a True X5000 or ACube Sam460ex PowerPC CPU.
+With much lower power consumption.
+Using 150watts CPU to emulate a 15watt CPU makes No sense.
+
+
+Apollo V4+ Standalone
+Firebird V4+ Accelerator for A500/A1000/A2000
+Icedrake V4 for Amiga 1200
+Manticore V4 for Amiga 600
+
+Plus version is a bit faster.
+
+--------
+
+FPGA Emulations:
+
+MIST is Open Source </br>
+Vampire V4+ Stand Alone is Closed Source </bt>
+MISTer is another version of MIST that runs on FPGA developer board, Not custom PCB. </p>
+
+MIST is more flexible, allow to Run other systems, AtariST, AMIGA, Arcade, Comodore64, and many others. </p>
+
