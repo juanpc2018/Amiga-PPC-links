@@ -491,17 +491,17 @@ IF want the fastest & most advanced FPGA for Amiga: V4+ </p>
 IF want to use Zorro expansion cards, AtariST or Commodore Cartridges. </br>
 FPGA is Not for you. </p>
 
-https://www.minimig.ca
-http://www.apollo-computer.com/
-https://lotharek.pl/productdetail.php?id=45 
+https://www.minimig.ca </br>
+http://www.apollo-computer.com/ </br>
+https://lotharek.pl/productdetail.php?id=45  </p>
 
-Price aprox.:
-MIST 1.5 $250usd.
-Minimig 1.91 Rev9 $350usd.
-Vampire V4+ Stand Alone $800usd.
+Price aprox.: </br>
+MIST 1.5 $250usd. </br>
+Minimig 1.91 Rev9 $350usd. </br>
+Vampire V4+ Stand Alone $800usd. </p>
 
-i dont like MISTer, because its Not a custom PCB, just a developer board.
-around $550usd. in Amiga Authorized Stores.
+i dont like MISTer, because its Not a custom PCB, just a developer board, and does Not have MIDI</br>
+around $550usd. + Custom Software, sold in Amiga Authorized Stores. </p>
 
 -----
 
