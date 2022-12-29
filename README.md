@@ -265,6 +265,8 @@ AmiStore allows to Buy / Download A-EON software like Enhancer, Paint, RadeonHD 
 http://secure.a-eon.biz/register_user.php </br>
 A-EON software for AmigaOS3 has downloads from the web page. </p>
 
+SysInfo 4.5 Beta
+https://sysinfo.d0.se
 
 -----
 
