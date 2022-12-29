@@ -473,7 +473,8 @@ Plus version is a bit faster. </p>
 FPGA Emulations: </p>
 
 MIST is Open Source, since v1.4 has MIDI ports for AtariST core. </br> 
-Vampire V4+ Stand Alone is Closed Source </bt>
+Vampire V4+ Stand Alone is Closed Source, High End model 080 CPU </bt>
 MISTer is a fork of MIST that runs on FPGA developer boards, Not custom PCB, No AtariST MIDI. </p>
-
-MIST is more flexible, allow to Run other systems, AtariST, AMIGA, Arcade, Comodore64, and many others. </p>
+MiniMig 1.8 is a Hybrid Amiga PCB, allows to plug Vampire or other CPU accelerator cards, interesting. </br>
+Has Xylinx Spartan3 to emulate all the OCS, ECS, AGA chipset, but a Real 68k CPU. </br>
+FPGA allows to Run other systems, AtariST, AMIGA, Arcade "PacMan", Comodore64, and others. </p>
