@@ -367,9 +367,9 @@ but New PPC machines are much faster. </p>
 Amiga Hardware: </br>
 
 There are 3 Paths: </br>
-68k </br>
-PowerPC </br>
-Hybrid PPC cards in 68k machines </br>
+aa) 68k </br>
+bb) PowerPC </br>
+cc) Hybrid PPC cards in 68k machines, </br>
 or 68k SW emulation in PPC machines. </p>
 
 BigBox Amigas like 4000 </br>
@@ -377,9 +377,10 @@ Are the most expandable, upgradable machines. </br>
 But 060 CPUs have compatibility issues with older Amiga 500 Games, </br>
 68k cpus were 16-Bits, </br>
 Since 68030 the transition to 32-Bit begun, </br>
-But that Transition had errors. </br>
-For example, the last 68k CPU </br>
-Was Motorola / Freescale 68060 Rev6 </br>
+that Transition too many changes and errors. </br>
+Examples: </br>
+Basilik II emulator had to Disable some features to avoid triggering a CPU Bug, </br>
+the last 68k CPU was Motorola / Freescale 68060 Rev6 </br>
 available in 50Mhz, 60Mhz and 66MHz.  </br>
 75MHz was also available but was LC060 No FPU, </br>
 And EC060 No FPU, No MMU. </br>
