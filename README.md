@@ -326,7 +326,7 @@ https://vmwaros.blogspot.com/p/hostbridge.html <(p>
 AmigaOS3 / 4 are Closed Source like UNIX or Win. </br>
 AmigaOS3 is for Motorola 68k CPUs. </br>
 AmigaOS4 is for PowerPC CPUs, different CPUs require different installer .iso </br> 
-for pruchase on Hyperio Website is Classic Final Edition for Sam460 CPUs, Pegasos, and Emulators. </p>
+Hyperion Website sell The Classic Edition for Sam460 CPUs, Pegasos and Emulators. </p>
 
 AROS is binary compatible Open Source to AmigaOS3.x, like Linux or ReactOS are to UNIX and Win. </br>
 MorphOS is Closed Source AROS for PowerPC machines, soon ARM. </br>
