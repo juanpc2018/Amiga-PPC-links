@@ -500,6 +500,7 @@ MIST 1.5 $250usd. </br>
 Minimig 1.91 Rev9 $350usd. </br>
 Vampire V4+ Stand Alone $800usd. </p>
 
+Vampire has the Option for RTC to Remeber the Time&Date every time you Turn-Off the machine. </br>
 i dont like MISTer, because its Not a custom PCB, just a developer board, and does Not have MIDI</br>
 around $550usd. + Custom Software, sold in Amiga Authorized Stores. </p>
 
