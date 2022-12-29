@@ -347,11 +347,13 @@ New Demos are made today exaple: </br>
 https://www.pouet.net/prod.php?which=93011 </br>
 https://www.pouet.net/prod.php?which=2597 </br>
 https://files.scene.org/view/mirrors/amigascne/Groups/C/CarillonCyberiad/Deep-The_Psilocybin_Mix.LHA </p>
-Demos Winning competition in 1995: </br>
+Demos Winning competition (1995) </br>
 http://janeway.exotica.org.uk/release.php?id=10900
 https://aminet.net/package/demo/ta95/Zif_Parallax
 https://files.scene.org/view/mirrors/amigascne/Groups/P/Parallax/PARALLAX-zif-AGA.lha 
 https://www.pouet.net/prod.php?which=1149 </p>
+The Juggler (1987) </br>
+https://archive.org/details/raytracer-1987-graham-source-code.adf.-7z </p>
 
 Amiga 68k OS, Original Amiga or AROS "UNIX or Linux" </br>
 allow to Run MacOS 7.1 to MacOS8.1 Color Emulation, </br>
