@@ -417,7 +417,7 @@ Would be very interesting to see a 1.4volts or less 5nm 060 CPU, </br>
 It could run way faster than 100Mhz, but that is dream land, </br>
 Its possible someone can reverse eng. the CPU.  </br>
 And ask a FAB like TSMC or Intel to Print the CPUs with New technology.  </br>
-But Printing ICs takes months, and costs $$$, requires to a full 300mm waffer.  </p>
+But Printing ICs takes months, and costs $$$, requires a full 300mm waffer.  </br>
 in the mean time... </br>
 
 There are other options: </br>
