@@ -338,7 +338,9 @@ Amiga DEMO Scene is still alive, unliike C64 demo scene,</br>
 Demos are Short Programs desgined to test Sound and Image Chips OCS ECS AGA or as Benchmark. </br>
 a test running inside the OS </br>
 New Demos are made today exaple: </br>
-https://www.pouet.net/prod.php?which=93011 </p>
+https://www.pouet.net/prod.php?which=93011 </br>
+https://www.pouet.net/prod.php?which=2597 </br>
+https://files.scene.org/view/mirrors/amigascne/Groups/C/CarillonCyberiad/Deep-The_Psilocybin_Mix.LHA </p>
 
 Amiga 68k OS, Original Amiga or AROS "UNIX or Linux" </br>
 allow to Run MacOS 7.1 to MacOS8.1 Color Emulation, </br>
