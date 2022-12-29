@@ -502,3 +502,26 @@ Vampire V4+ Stand Alone $800usd.
 
 i dont like MISTer, because its Not a custom PCB, just a developer board.
 around $550usd. in Amiga Authorized Stores.
+
+-----
+
+Accelerator Boards </p>
+
+Have 3 categories: </br>
+A) Real Motorola CPU </br>
+B) Emulated CPU </br>
+C) Hybrid. </p>
+
+A) Original Amiga A3630 A3640 </br>
+Replicas with Real CPU. </br>
+Other manufacurers like CyberStorm Mk1/2/3 </p>
+
+B) Emulated CPU </br>
+FPGA or PiStorm+Emu68k Software Emualtion, </br>
+compatible Hardware to interact with real Amiga Hardware PCB. </p>
+
+C) CyberStorm PPC604e Boards. </br>
+Motorola + PowerPC CPU. </br>
+There is also stand alone PowerPC PCI cards from Sonnet and others, </br>
+work on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Board. </p>
+
