@@ -135,7 +135,7 @@ there are also Game Demos for Download. </br>
 
 Then you need to Purchase a legal Amiga KickStart ROM 3.1 from an authorized website, </br>
 Total is aprox. $50usd. </br>
-The idea is to support developers, support parallel digital reality, another timeline, think outside the box. </br>
+The idea is to support developers, support a parallel digital reality, another timeline, think outside the box. </br>
 There are KickStart ROMs in FloppyDisk for A1000, A3000, Not Recommended. </br>
 Real EPROMs, some machines require single 1MB or double 512k EPROMs, from stores like: </br>
 https://www.amigaforever.com/value/ </br>
