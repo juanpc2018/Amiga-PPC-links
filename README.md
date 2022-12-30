@@ -521,19 +521,19 @@ B) Emulated CPU </br>
 C) Hybrid CPU. </p>
 
 A) Original Amiga A3630 A3640 </br>
-Replicas with Real CPU. </br>
-Other manufacurers like CyberStorm Mk1/2/3 </p>
+Replicas, Remakes & Spins with Real 68k CPU. </br>
+Vintage manufacurers like CyberStorm Mk1/2/3 </p>
 
 B) Emulated CPU </br>
 FPGA or PiStorm+Emu68k Software Emualtion, </br>
-compatible Hardware to interact with real Amiga Hardware PCB. </br> 
-FPGA if done properly is more for parallel processing, </br> 
-ARM is more for Fast Serial processing. </br>
-in Theory Motorola 68K CPUs are CISC, similar to x86 </br> 
-Faster Serial Emulation could be faster, </br>
-Parallel emulation IF done properly, can have Perfect Timings in all i/o lines,</br>
-exactly the same as the real 68k CPU, but faster, but Not as fast as ARM. </br>
-Turtle vs. Rabbit Tale. </p>
+compatible Hardware to interact with real Amiga Hardware. </br> 
+FPGA if done properly is more accurate, because parallel processing, </br> 
+ARM is for Fast Serial processing. </br>
+in Theory Motorola 68k and x86 are similar CISC architecture </br> 
+Serial Emulation can be Faster IF done Bare Metal, </br>
+Parallel Emulation IF done properly, can have Perfect Timings in all i/o lines,</br>
+exactly the same as the real 68k CPU but Faster, but Not as fast as Bare Metal Serial Emu. </br>
+Turtle vs. Rabbit. </p>
 
 C) CyberStorm PPC604e Boards, </br>
 Motorola + PowerPC CPU. </br>
