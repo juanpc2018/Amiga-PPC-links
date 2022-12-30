@@ -54,33 +54,34 @@ is the most economic way to enter AmigaOS4.1 ecosystem, </p>
 Limitations: </br>
 AmigaOS4.1 does Not run / install directly on a Vintage Apple PowerMac G5 </br>
 thats because: </br>
-Apple PowerPC, Pegasos and other PowerPC like ACube Sam460 are CHRP-compliant systems. </br>
-but AmigaOne X1000, AmigaOne X5000 and NXP T2080RDB-PC are Not. </br>
-and X1000 is also different than X5000 / NXP </br>
+Apple PowerPC, Pegasos and other PowerPC like ACube Sam460 are CHRP v1.7 compliant systems. </br>
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/chrp1_7a.pdf </br>
+but AmigaOne X1000, X5000 and NXP T2080RDB-PC are Not. </br>
+The X1000 is also different than X5000 / NXP </br>
 AmigaOS4 is designed for PowerPC, and Apple PowerMac G5 has PowerPC CPU, </br>
 but All PowerPC are Not the same. </br>
 different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </p>
 
-AmigaOS4.1 and Fienix Linux has different .iso installers: </br>
-AmigaOS4.1 Classic Final Edition available for purchase from Hyperion Website or Boxed from Authorized distributors, </br>
-Classic is compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, and Amiga 4000 with CyberStorm PPC accelerator board, </br>
-the X1000 / X5000 installer designed for other PowerPC CPUs, Bundled when purchasing X5000 New. </p>
+AmigaOS4.1 and Fienix Linux have different .iso installers: </br>
+AmigaOS4.1 Classic Final Edition available for purchase from Hyperion Website or from Authorized distributors, </br>
+is compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, and Amiga 4000 with CyberStorm PPC accelerator, </br>
+the X1000 / X5000 installers are designed for other PowerPC CPUs, Bundled when purchasing X5000 New. </p>
 
 Untested: Build rEFInd from source on PPC, </br>
 http://www.rodsbooks.com/refind/getting.html </p> 
 
 Unknown if Classic installer or X5000 installer Boot on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
-Those machines have a similar IBM POWER9 v2 PowerPC architecture. </br>
+Those have a similar IBM POWER9 v2 PowerPC architecture. </br>
 https://en.wikipedia.org/wiki/POWER9 </br>
-Unknown IF Raptor Sforza CPUs allow VM. </p>
+Unknown IF Raptor Sforza CPUs allows VM. </p>
 
 To Run AmigaOS4.1 on a Vintage PowerMac G5 2003-2005, CPUs: 970 / 970FX / 970MP </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
-requires emulating PowerPC in PowerPC, to solve the OpenFW & CPU differences. </p>
+requires emulating PowerPC in PowerPC, to solve the OpenFW, CPU & Boot differences. </p>
 
-installing OSX or Linux for PPC: </br>
-there are different Linux for old & New PowerPC machines, like:</br> 
+installing OSX or Linux for PPC, </br>
+there are different for old & New PowerPC machines:</br> 
 https://youtu.be/g-Ugfqj1ank </br>
 https://cdimage.debian.org/cdimage/ports/current/ </br>
 https://forums.macrumors.com/threads/debian-sid-installation-guide-powerpc.2146795/ </br>
