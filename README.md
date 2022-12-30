@@ -59,14 +59,20 @@ http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/chrp1_7a.pdf
 http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/chng_c10.pdf </br>
 http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/chrp_hrpa.pdf </br>
 http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/CHRP/chrp_io.pdf </br>
-but AmigaOne X1000, X5000 and NXP T2080RDB-PC are Non comliant. </br>
-The X1000 is also different than X5000 / NXP </br>
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/developerUniversity/Apple_C++_Part_II_Jul1992.pdf </br>
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/developerUniversity/Apple_PowerPC_Runtime_Architecture_Oct1992.pdf </br> 
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/developerUniversity/Apple_Porting_to_PowerPC_Jun1993.pdf </br>
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/powerpc/developerUniversity/Apple_Introduction_to_PowerPC_Instruction_Set_Feb1993.pdf </p>
+
+But AmigaOne X1000, X5000 and NXP T2080RDB-PC are Non comliant. </br>
+Genesi Pegasos is Unknown, according to Fienix is compliant. </br>
+The X1000 is also different than X5000 / NXP, needs different installer, because has different CPU. </br>
 AmigaOS4 is designed for PowerPC, and Apple PowerMac G5 has PowerPC CPU, </br>
-but are Not the same. </br>
+but Not All PPC are the same. </br>
 different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </p>
 
-AmigaOS4.1 and Fienix Linux have different .iso installers: </br>
-AmigaOS4.1 Classic FE available for purchase from Hyperion Website or from Authorized distributors, </br>
+AmigaOS4.1 and Fienix Linux have different .iso installers for each: </br>
+Classic FE available for purchase from Hyperion Website or from Authorized distributors, </br>
 is compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, and Amiga 4000 with CyberStorm PPC accelerator, </br>
 the X1000 / X5000 installers are designed for other PowerPC CPUs, Bundled when purchasing X5000 New. </p>
 
