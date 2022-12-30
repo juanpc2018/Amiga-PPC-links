@@ -360,9 +360,9 @@ allow to Run MacOS 7.1 to MacOS8.1 Color Emulation, </br>
 https://shapeshifter.cebix.net </br>
 many Games and software can be found in MacGardern, MacRepository and Archive.org </p>
 
-Sonnet G3 G4 PCI cards & others can be installed in BigBox Amigas with Mediator PCI riser board. </br>
-requires AmigaOS3.9 and installation is Not easy, but allows to Run PPC software, </br>
-but New PPC machines are much faster. </p>
+Sonnet G3/G4 PCI cards & others can be installed in BigBox Amigas with Mediator PCI riser board. </br>
+allows to Run PPC software in AmigaOS3.9 but installation is Not easy, </br>
+and New PPC machines are much faster. </p>
 
 ------
 
