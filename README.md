@@ -242,7 +242,7 @@ there are Amiga players that play direcly from SCSI & IDE, but most Play from RA
 
 All FS-UAE RAM cards with 128MB recommended. </p>
 
-Emulating Sam460ex PPC + Picaso-IV in OSX HighSierra 10.13.6 x86_64 requires: </br>
+Emulating Sam460 PPC + Picaso-IV in OSX HighSierra 10.13.6 x86_64 requires: </br>
 100% CPU load on a 2-core Mac Mini 2014 i5 2.8Ghz 8GB RAM. </br>
 and Macs Fan Control: https://crystalidea.com/macs-fan-control/download </p>
 
@@ -347,7 +347,7 @@ New Demos are made today exaple: </br>
 https://www.pouet.net/prod.php?which=93011 </br>
 https://www.pouet.net/prod.php?which=2597 </br>
 https://files.scene.org/view/mirrors/amigascne/Groups/C/CarillonCyberiad/Deep-The_Psilocybin_Mix.LHA </p>
-Demos Winning competition (1995) </br>
+Demo Winning competition (1995) </br>
 http://janeway.exotica.org.uk/release.php?id=10900
 https://aminet.net/package/demo/ta95/Zif_Parallax
 https://files.scene.org/view/mirrors/amigascne/Groups/P/Parallax/PARALLAX-zif-AGA.lha 
