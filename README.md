@@ -550,3 +550,25 @@ Motorola + PowerPC CPU. </br>
 There is also stand alone PowerPC PCI cards from Sonnet and others, </br>
 works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </p>
 
+-----
+
+Amiga A3630 Card for BigBox Amigas is required to play games designed for A500, </br>
+example, KungFu Remaster (2022) </br>
+https://mcgeezer.itch.io/kung-fu-remaster </br>
+game is New 2022, </br>
+developer has a youtube video dairy coding the game. </p>
+
+https://alen.dreamhosters.com/terriblefire/wp-content/uploads/2022/10/IMG_E1526.jpg </br>
+https://bigbookofamigahardware.com/bboah/product.aspx?id=249 </br>
+https://alen.dreamhosters.com/terriblefire/a3630-replica/ </br>
+https://www.amigawiki.org/dnl/schematics/A3630.pdf </br>
+https://locator.reamiga.info/locator.php?project=A3630 </br>
+https://www.reamiga.info/?page_id=44 </br>
+http://www.reamiga.info/webfiles/A3630/A3630.zip </br>
+http://www.hertell.nu/files/A3630.zip </br>
+https://github.com/nitrocaster/eagleview </br>
+http://members.iinet.net.au/~davem2/overclock/a3630.html </p>
+
+----
+
+.
