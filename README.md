@@ -552,10 +552,11 @@ works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </p>
 
 -----
 
-Amiga A3630 Card for BigBox Amigas is required to play games designed for A500, </br>
-example, KungFu Remaster (2022) </br>
+Amiga A3630 Card is required to play games designed for A500 in BigBox Amigas 3000/4000D, </br>
+Unknown if works in 4000T. </br>
+Example, KungFu Remaster (2022) </br>
 https://mcgeezer.itch.io/kung-fu-remaster </br>
-game is New 2022, </br>
+Game is New 2022, </br>
 developer has a youtube video dairy coding the game. </p>
 
 https://alen.dreamhosters.com/terriblefire/wp-content/uploads/2022/10/IMG_E1526.jpg </br>
