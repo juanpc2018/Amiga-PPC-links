@@ -550,6 +550,7 @@ Motorola + PowerPC CPU. </br>
 There is also stand alone PowerPC PCI cards from Sonnet Crescendo 7200 and others, </br>
 works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </br>
 https://github.com/Sakura-IT/SonnetAmiga/wiki/Sonnet-first-time-installation-guide </br>
+http://eab.abime.net/showthread.php?t=76633 </br>
 
 -----
 
