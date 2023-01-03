@@ -547,12 +547,13 @@ Turtle vs. Rabbit. </p>
 
 C) CyberStorm PPC604e Boards, </br>
 Motorola + PowerPC CPU. </br>
-There is also stand alone PowerPC PCI cards from Sonnet and others, </br>
-works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </p>
+There is also stand alone PowerPC PCI cards from Sonnet Crescendo 7200 and others, </br>
+works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </br>
+https://github.com/Sakura-IT/SonnetAmiga/wiki/Sonnet-first-time-installation-guide </br>
 
 -----
 
-Amiga A3630 Card is required to play games designed for A500 in BigBox Amigas 3000/4000D, </br>
+Amiga A3630 Card is recommended to play games for A500 in BigBox Amigas 3000/4000 </br>
 Unknown if works in 4000T. </br>
 Example, KungFu Remaster (2022) </br>
 https://mcgeezer.itch.io/kung-fu-remaster </br>
