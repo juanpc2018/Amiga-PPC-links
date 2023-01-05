@@ -364,6 +364,7 @@ https://files.scene.org/view/mirrors/amigascne/Groups/P/Parallax/PARALLAX-zif-AG
 https://www.pouet.net/prod.php?which=1149 </p>
 The Juggler (1987) </br>
 https://archive.org/details/raytracer-1987-graham-source-code.adf.-7z </p>
+https://archive.org/details/commodore-amiga-demos-various-adf </br>
 
 Amiga 68k OS, Original Amiga or AROS "UNIX or Linux" </br>
 allow to Run MacOS 7.1 to MacOS8.1 Color Emulation, </br>
@@ -489,6 +490,11 @@ Plus version is a bit faster. </p>
 
 FPGA Emulations: </p>
 
+The 1st FPGA emulator was the MISTer 1.1 from 2005, </br>
+but only emulates the Amiga chipset Not the CPU... has a real motorola 68k CPU. </br>
+then fully FPGA versions followed, emulating everything in FPGA </br>
+MIST, Vampire, UnAmiga. </br>
+
 MIST v1.3 is Open Source, since v1.4 has MIDI ports for AtariST core, BTO. </br> 
 Vampire V4+ Stand Alone is Closed Source, High End 080 CPU "The Future" </bt>
 MISTer is a fork of MIST that runs on FPGA developer boards, Not custom PCB, No AtariST MIDI. </p>
@@ -551,6 +557,36 @@ There is also stand alone PowerPC PCI cards from Sonnet Crescendo 7200 and other
 works on BigBox Amigas with MEDIATOR PCI or Prometheus PCI Riser Boards. </br>
 https://github.com/Sakura-IT/SonnetAmiga/wiki/Sonnet-first-time-installation-guide </br>
 http://eab.abime.net/showthread.php?t=76633 </br>
+
+-----
+
+Cases:  </br>
+
+Most injection molded plastic cases available for Amiga are: </br>
+for A500 A500+ A600 A1200 </br>
+but there is a very interesting A3000 metal case replica,  </br>
+that allows to fit different boards: </br>
+UnAmiga miniITX board,  </br>
+Real Amiga A500 boards with any CPU accelerator, PiStorm, Vampire V4+ Fire, </br> 
+Vampire Stand Alone, </br>
+Raspberry Pi "AmiBerry" and others. </br>
+
+https://checkmate1500plus.com/IntroductionAmiga.aspx </br>
+https://www.a1200.net/ </>
+
+-----
+
+Keybords: </br>
+https://checkmate1500plus.com/Products.aspx?searchkey=14 </br>
+https://www.a1200.net/amiga-mechanical-keyboard/ </br>
+
+-----
+
+Zorro-II / III Replica cards:
+
+SCSI-2 https://scsi.me/ - https://amiga.technology/ </br>
+different Soundcards from A-EON, and others. </br>
+Network cards are available for Zorro, built-in in video cards like ZZ9000, and Serial/parallel. </br>
 
 -----
 
