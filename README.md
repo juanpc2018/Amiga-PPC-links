@@ -572,11 +572,11 @@ Vampire Stand Alone, </br>
 Raspberry Pi "AmiBerry" and others. </br>
 
 https://checkmate1500plus.com/IntroductionAmiga.aspx </br>
-https://www.a1200.net/ </>
+https://www.a1200.net/ </br>
 
 -----
 
-Keybords: </br>
+Keyboards: </br>
 https://checkmate1500plus.com/Products.aspx?searchkey=14 </br>
 https://www.a1200.net/amiga-mechanical-keyboard/ </br>
 
@@ -610,4 +610,10 @@ http://members.iinet.net.au/~davem2/overclock/a3630.html </p>
 
 ----
 
-.
+Known Bugs: </br>
+
+Picasso IV RTG video cards on Amiga 3000/4000 </br>
+some revisions of the PIV board, only work with 3.1 .roms 3.2 fail. </br>
+but FS-UAE seem to work fine with 3.2 roms. </br>
+
+-----
