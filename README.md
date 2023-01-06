@@ -617,3 +617,10 @@ some revisions of the PIV board, only work with 3.1 .roms 3.2 fail. </br>
 but FS-UAE seem to work fine with 3.2 roms. </br>
 
 -----
+
+FPU List: </br>
+LightWave 3D v3.5 does Not require FPU. </br>
+LightWave 3D v5.0 Require FPU. </br>
+
+-----
+
