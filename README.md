@@ -284,8 +284,19 @@ https://sysinfo.d0.se </p>
 
 -----
 
-Amiga 68k
+Amiga 68000 CPU </br>
 
+are Divided in 3 Groups: </br>
+Original Chipset (OCS)
+Enhanced Chipset (ECS)
+Advanced Graphics Architecture (AGA)
+https://en.wikipedia.org/wiki/Amiga_models_and_variants </br>
+
+Early version of games for OCS have ram and rom incompatibilities with ECS and AGA machines, </br>
+symptoms: detects less memory, software behaves different, requires Kickstart rom v1.3, etc... </br>
+there are workarounds: some stores sell dual boot rom pcbs, with a switch. </br>
+
+Operating Systems: </br>
 ApolloOS 68k <-- AROS 68k <-- AmigaOS3.2 </br>
 CaffeineOS <-- AROS 68k <-- AmigaOS3.2 </br>
 CoffinOS <-- AmigaOS3.9 </p>
