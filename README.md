@@ -660,4 +660,9 @@ Startup   = "smb://myuser:password123@mypc/myshare" </br>
 
 -----
 
+Ports & MorphOS storage: </br>
 
+http://bszili.morphos.me/ </br>
+https://www.morphos-storage.net/?id=1532348 </br>
+
+----
