@@ -639,3 +639,24 @@ LightWave 3D v5.0 Require FPU. </br>
 Todd Rundgren - Change Myself  https://youtu.be/Ruc7AFi908g
 
 -----
+
+SMB Network AmigaOS3 </br>
+
+https://eab.abime.net/showthread.php?t=113017&highlight=smb </br>
+https://aminet.net/package/util/libs/filesysbox_68k </br>
+https://github.com/salass00/smb2fs </br>
+http://bszili.morphos.me/stuff/smb2-handler </br>
+http://bszili.morphos.me/stuff/smb2-handler.000 </br>
+example MountList: </br>
+Code:</br>
+
+Handler   = L:smb2-handler </br>
+StackSize = 16384 </br>
+Priority  = 5 </br>
+GlobVec   = -1 </br>
+Activate  = 1 </br>
+Startup   = "smb://myuser:password123@mypc/myshare" </br>
+
+-----
+
+
