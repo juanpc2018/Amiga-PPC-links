@@ -644,7 +644,8 @@ SMB Network AmigaOS3 </br>
 
 https://eab.abime.net/showthread.php?t=113017&highlight=smb </br>
 https://aminet.net/package/util/libs/filesysbox_68k </br>
-https://github.com/salass00/smb2fs </br>
+https://github.com/salass00/smb2fs </br> 
+https://github.com/salass00/filesysbox </br>
 http://bszili.morphos.me/stuff/smb2-handler </br>
 http://bszili.morphos.me/stuff/smb2-handler.000 </br>
 example MountList: </br>
