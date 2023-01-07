@@ -640,7 +640,7 @@ Todd Rundgren - Change Myself  https://youtu.be/Ruc7AFi908g
 
 -----
 
-SMB Network AmigaOS3 </br>
+SMB2/3 Network AmigaOS3 </br>
 
 https://eab.abime.net/showthread.php?t=113017&highlight=smb </br>
 https://aminet.net/package/util/libs/filesysbox_68k </br>
