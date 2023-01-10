@@ -598,7 +598,7 @@ Zorro-II / III Replica cards:
 SCSI-2 https://scsi.me/ - https://amiga.technology/ </br>
 different Soundcards from A-EON, and others. </br>
 Network cards are available for Zorro, built-in in video cards like ZZ9000, and Serial/parallel. </br>
-Mediator and Driver CD http://shop.elbox.com/en_GB/c/AMIGA-ACCESSORIES/40 </br>
+Mediator and Driver CD http://elbox.com/buy.html - http://shop.elbox.com/en_GB/c/AMIGA-ACCESSORIES/40 </br>
 
 -----
 
