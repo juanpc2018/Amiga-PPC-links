@@ -669,10 +669,10 @@ https://www.morphos-storage.net/?id=1532348 </br>
 
 ----
 
-Warp3D / Wazp3D
+Warp3D / Wazp3D </br>
 
-http://thellier.free.fr/Wazp3D.htm
-http://aminet.net/package/driver/video/Wazp3D
+http://thellier.free.fr/Wazp3D.htm </br>
+http://aminet.net/package/driver/video/Wazp3D </br>
 
 ----
 
