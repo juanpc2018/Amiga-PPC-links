@@ -69,28 +69,31 @@ Genesi Pegasos is Unknown, according to Fienix is compliant. </br>
 The X1000 is also different than X5000 / NXP, needs different installer, because has different CPU. </br>
 AmigaOS4 is designed for PowerPC, and Apple PowerMac G5 has PowerPC CPU, </br>
 but Not All PPC are the same. </br>
-different Boot Firmware & CPU design, like QEMU requires specific CPU to run. </p>
+different Boot Firmware U--Boot vs. OpenFirmware </br>
+different CPU design, like QEMU requires specific CPU to run. </p>
 
-AmigaOS4.1 and Fienix Linux have different .iso installers for each: </br>
-Classic FE available for purchase from Hyperion Website or from Authorized distributors, </br>
+AmigaOS4.1 and Fienix Linux have different .iso installers for each system: </br>
+Classic FE available for purchase from Hyperion Website or Authorized distributors, </br>
 is compatible with AmigaOne 500 "Sam440/460ex" PPC CPUs, FS-UAE, QEMU, and Amiga 4000 with CyberStorm PPC accelerator, </br>
-the X1000 / X5000 installers are designed for other PowerPC CPUs, Bundled when purchasing X5000 New. </p>
+the X1000 / X5000 installers are designed for other PowerPC platforms, Bundled when purchasing a New X5000. </p>
 
 Untested: Build rEFInd from source on PPC, </br>
 http://www.rodsbooks.com/refind/getting.html </p> 
 
 Unknown if Classic installer or X5000 installer Boot on Newer Raptor Talos II "dual cpu" / Lite or BlackBird "single cpu" </br>
 https://www.raptorcs.com/content/base/products.html </br>
-Those have a similar IBM POWER9 v2 PowerPC architecture. </br>
+Those have IBM POWER9 v2 PowerPC CPU, </br>
+Classic FE Probably Not because Older PowerPC were (BE) Big.Endian and Newer PowerPC are (LE) little.Endian, </br>
+totally opposite, Not Only different Boot but also different architecture. </br>
 https://en.wikipedia.org/wiki/POWER9 </br>
 Unknown IF Raptor Sforza CPUs allows VM. </p>
 
 To Run AmigaOS4.1 on a Vintage PowerMac G5 2003-2005, CPUs: 970 / 970FX / 970MP </br>
 https://en.wikipedia.org/wiki/Power_Mac_G5 </br>
-requires emulating PowerPC in PowerPC, to solve the OpenFW, CPU & Boot differences. </p>
+requires emulating PowerPC in PowerPC with FS-UAE PPC, E-UAE PPC, QEMU PPC, to solve OpenFW, CPU & Boot differences. </p>
 
 installing OSX or Linux for PPC, </br>
-there are different for old & New PowerPC machines:</br> 
+for old & New PowerPC machines:</br> 
 https://youtu.be/g-Ugfqj1ank </br>
 https://cdimage.debian.org/cdimage/ports/current/ </br>
 https://forums.macrumors.com/threads/debian-sid-installation-guide-powerpc.2146795/ </br>
@@ -101,21 +104,22 @@ https://torrent.fedoraproject.org/ </br>
 https://amigaonthelake.com/new-6-13-2020-fienix-linux-distro-for-amigaone-64-bit-powerpc-systems/ </p>
 
 OSX Leopard 10.5.8 for PPC, there is also 10.5.8 for intel "MacPro1,1 2006". </br> 
-or OSX Sobet 10.5.9 R15 "New 2022, faster! PPC optimized." </br> 
+OSX Sobet 10.5.9 R15 "New 2022, faster! PPC optimized." </br> 
 https://macintoshgarden.org/apps/sorbet-leopard </br>
 https://forums.macrumors.com/threads/sorbet-leopard-your-power-mac-unleashed-revision-1-5-released.2300924/ </br>
 installing FS-UAE for LinuxPPC or OSX PPC </br>
 or installing QEMU for LinuxPPC or OSX PPC </br>
-Emulating PPC with PPC is Not The Best: Bare Metal option, </br>
+Emulating PPC with PPC is Not The Best, Bare Metal option, </br>
 but if you have a G5, is an option. </p>
 
-IF you are bored with the same OS, there are different options: </br>
+IF bored with the same, there are different options: </br>
 Linux for old & New PPC CPUs </br>
-NewOld OSX 10.5.9 for old PPC CPUs </br>
+OSX 10.5.9 for old PPC CPUs </br>
 AmigaOS4.1 for New and old Amiga PowerPC CPUs.</br>
 All can be Run Real or Emulated.</p>
 
-Boot Differences: OSX G5 PPC vs. Amiga A4000 PPC </br>
+Boot Differences: </br>
+OSX G5 PPC vs. Amiga A4000 PPC </br>
 OSX OpenFirmware loads from Disk to RAM to Boot / initialize the Machine devices "keyboad, HDD controllers, etc. </br>
 Amiga A4000 loads directly from EEPROM to Initialize / Boot the machine. </br>
 The Newer OSX method is suceptible to Boot Rom Virus, the boot partition can be modified from OSX, </br>
