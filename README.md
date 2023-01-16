@@ -534,7 +534,7 @@ MIST 1.5 $250usd. </br>
 Minimig 1.91 Rev9 $350usd. </br>
 Vampire V4+ Stand Alone $800usd. </p>
 
-Vampire has the Option for RTC module to Remeber Time&Date every time the machine is Turn-Off. </br>
+Vampire has the Option for RTC module to Remeber Time&Date, every time the machine is Turn-Off. </br>
 i dont like MISTer, because its Not a custom PCB, just a developer board, and does Not have MIDI,</br>
 around $550usd. + Custom Software, in Amiga Authorized Stores. </p>
 
@@ -663,6 +663,7 @@ Startup   = "smb://myuser:password123@mypc/myshare" </br>
 
 Ports & MorphOS storage: </br>
 
+http://meynaf.free.fr/pr/index_en.html </br>
 http://bszili.morphos.me/ </br>
 https://www.morphos-storage.net/?id=1532348 </br>
 
